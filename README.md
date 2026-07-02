@@ -46,6 +46,9 @@ Phi: respondió en español y sí usó positivo, neutro y negativo.
 Mistral: respondió en español, usó positivo/neutro/positivo, pero no generó negativo.
 
 6. en VS abrir:
+   
 .\.venv\Scripts\Activate.ps1
+
 py -m pip install requests pandas
+
 py -m pip list
