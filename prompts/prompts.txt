@@ -1,0 +1,14 @@
+﻿TOPICO:
+Reseñas breves de productos en español, etiquetadas según sentimiento.
+
+JUSTIFICACION:
+Se escogió este tópico porque permite generar datos sintéticos fáciles de evaluar. Cada ejemplo puede analizarse según coherencia, relevancia respecto al producto, diversidad del texto generado y cumplimiento del formato solicitado. Además, las etiquetas de sentimiento permiten comparar si los modelos respetan instrucciones estructuradas.
+
+PROMPT_1:
+Genera 10 reseñas sintéticas de productos electrónicos en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, resena, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.
+
+PROMPT_2:
+Genera 10 reseñas sintéticas de productos de belleza y cuidado personal en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, resena, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.
+
+PROMPT_3:
+Genera 10 reseñas sintéticas de productos para el hogar y cocina en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, resena, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.
