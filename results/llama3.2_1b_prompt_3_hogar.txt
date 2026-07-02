@@ -1,0 +1,82 @@
+```
+{
+    "id": 1,
+    "producto": "Tortilla de Patatas",
+    "categoria": "Alimentación",
+    "reseña": "Este producto es increíble, la tortilla está bien hecha y tiene un buen sabor. Fue rápido para preparar y fue muy económico.",
+    "sentimiento": " positively"
+}
+
+{
+    "id": 2,
+    "producto": "Sofá de Madera",
+    "categoria": "Decoración",
+    "reseña": "Este sofá es genial, está bien hecho y tiene un buen diseño. Fue muy fácil de instalar.",
+    "sentimiento": "positivamente"
+}
+
+{
+    "id": 3,
+    "producto": "Lavadora",
+    "categoria": "Hogar",
+    "reseña": "Esta lavadora es excelente, no congeló nada y tiene un buen rendimiento. Fue muy económica.",
+    "sentimiento": "positivamente"
+}
+
+{
+    "id": 4,
+    "producto": "Libro",
+    "categoria": "Librería",
+    "reseña": "Este libro es muy interesante, el autor es excelente y el contenido es genial. Fue rápido para leer.",
+    "sentimiento": "positivamente"
+}
+
+{
+    "id": 5,
+    "producto": "Cocina de Microondas",
+    "categoria": "Cocina",
+    "reseña": "Esta cocina de microondas es muy útil, tiene un buen tamaño y funciona bien. Fue muy fácil de usar.",
+    "sentimiento": "positivamente"
+}
+
+{
+    "id": 6,
+    "producto": "Ropa de Vestir",
+    "categoria": "Juguetes",
+    "reseña": "Esta ropa de vestir es genial, está bien hecha y tiene un buen estilo. Fue muy económica.",
+    "sentimiento": "positivamente"
+}
+
+{
+    "id": 7,
+    "producto": "Mueble",
+    "categoria": "Decoración",
+    "reseña": "Este mueble es excelente, está bien hecho y tiene un buen diseño. Fue muy fácil de instalar.",
+    "sentimiento": "negativamente"
+}
+
+{
+    "id": 8,
+    "producto": "Lectura de Pantalla",
+    "categoria": "Videojuegos",
+    "reseña": "Esta lectura de pantalla es muy útil, tiene un buen tamaño y funciona bien. Fue muy fácil de usar.",
+    "sentimiento": "negativamente"
+}
+
+{
+    "id": 9,
+    "producto": "Taza de Café",
+    "categoria": "Alimentación",
+    "reseña": "Esta taza de café es genial, está bien hecha y tiene un buen sabor. Fue muy económica.",
+    "sentimiento": "negativamente"
+}
+
+{
+    "id": 10,
+    "producto": "Cama de Madera",
+    "categoria": "Hogar",
+    "reseña": "Esta cama de madera es excelente, está bien hecha y tiene un buen diseño. Fue muy fácil de instalar.",
+    "sentimiento": "negativamente"
+}
+
+```
