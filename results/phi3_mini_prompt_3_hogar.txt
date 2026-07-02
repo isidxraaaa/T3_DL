@@ -1,0 +1,128 @@
+```json
+
+[
+
+    {
+
+        "id": "1",
+
+        "producto": "Agua Purificadora Dialux",
+
+        "categoria": "Cocina y Baño",
+
+        "resena": "La eficiencia en la purificación del agua es impresionante. Disfruto de cada vaso limpio.",
+
+        "sentimiento": "POSITIVO"
+
+    },
+
+    {
+
+        "id": "2",
+
+        "producto": "Fundas para Plantas en Casa",
+
+        "categoria": "Cocina y Baño",
+nervo: el sentimiento es neutral, aunque parece ser una solución creativa.",
+
+    },
+
+    {
+
+        "id": "3",
+
+        "producto": "Jarro Sistema Rinconazul para Orquídeas",
+
+        "categoria": "Cocina y Baño",
+
+        "resena": "Esta pieza tiene una belleza única pero con cierto escepticismo sobre la práctica real.",
+
+        "sentimiento": "NEUTRO"
+
+    },
+
+    {
+
+        "id": "4",
+
+        "producto": "Papeles de Cocina Bioblast Sustentable",
+
+        "categoria": "Cocina y Baño",
+
+        "resena": "Amo el hecho que estas opciones sean ecológicas. Un gran paso para un hogar verde.",
+
+        "sentimiento": "POSITIVO"
+
+    },
+
+    {
+
+        "id": "5",
+
+        "producto": "Cubos de Café Auto-Ventilando Starbucks Blonde",
+
+        "categoria": "Cocina y Baño",
+
+        "resena": "La funcionalidad es impresionante, pero el diseño podría resultar extravagante para algunos.",
+
+        "sentimiento": "POSITIVO"
+
+    },
+
+    {
+
+        "id": "6",
+
+        "producto": "Sifón de Enfriamiento Conexos EliteTech MaxFlow",
+
+        "categoria": "Cocina y Baño",
+
+        "resena": "La calidad del frío es superior sin importar cuánto uso haga la máquina.",
+
+        "sentimiento": "POSITIVO"
+
+    },
+
+    {
+
+        "id": "7",
+
+        "producto": "Cerámica de Comedor Biocelestial Earthtones",
+
+        "categoria": "Cocina y Baño",
+
+        "resena": "La calidez del material es atemporal, aunque no siempre se siente refractario.",
+
+        "sentimiento": "NEUTRO"
+
+    },
+
+    {
+
+        "id0:31582794_MJ-Catalina Furniture",
+
+        "categoria": "Lavandería y Lavabo",
+
+        "resena": "La ergonomía del lavaplatos es impresionante, pero el tamaño puede no convencer a todos.",
+
+        "sentimiento": "POSITIVO"
+
+    },
+
+    {
+
+        "id": "10",
+
+        "producto": "Ventilador de Lavandería DualClima MJ-Vortex",
+
+        "categoria": "Lavandería y Lavabo",
+
+        "resena": "Este ventilador es eficiente pero su tamaño podría ser prohibitivo para ciertos espacios.",
+
+        "sentimiento": "NEUTRO"
+
+    }
+
+]
+
+```
