@@ -1,0 +1,172 @@
+﻿cantidad_solicitada,modelo,prompt_id,id,producto,categoria,resena,sentimiento,largo_palabras,archivo_origen
+10,llama3.2:1b,prompt_1_electronicos,1,Sony A7R IV,Cámara,Una de las mejores cámaras DSLR en su precio.,POSITIVO,9,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,2,Apple AirPods Pro,Dispositivo de audio,Amplias bocas de sonido y una buena calidad de reproducción.,POSITIVO,10,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,3,LG OLED C9 Smart TV,Teléfono inteligente,"Excelente pantalla por encima y bajo, con un diseño elegante.",NEGATIVO,10,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,4,HP Envy x360 Laptop,Laptop,Baja precio para una buena calidad de producto y servicio.,NEUTRO,10,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,5,Samsung Q90 R/AQ80,Refrigerador,Excelente rendimiento energético y una buena calidad de productos.,NEGATIVO,9,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,6,Microsoft Surface Laptop 3,Laptop,Baja precio para una excelente experiencia de usuario.,NEUTRO,8,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,7,Sony WH1000XM4,Dispositivo de audio,Amplias bocas de sonido y una buena calidad de reproducción.,POSITIVO,10,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,8,Dell XPS Tower Desktop,Desktop,Muy asequible con una excelente experiencia de usuario.,NEGATIVO,8,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,9,Sony PlayStation 5,Juego,Una de las mejores consolas de juegos en su precio.,POSITIVO,10,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_1_electronicos,10,Lenovo ThinkPad X1 Carbon,Tableta portátil,Baja precio para una excelente experiencia de usuario y rendimiento.,NEUTRO,10,results/llama3.2_1b_prompt_1_electronicos_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,1,Luz de barba sintética,Higiene personal y cuidado del cabello,Me encanta porque hace que mi barba sea más brillante y saludable.,NEGATIVO,12,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,2,Cera para el cuerpo suave,Higiene corporal y cuidado personal,Me gusta porque es perfecta para mi piel y me hace sentir relajada.,NEUTRO,13,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,3,Lavanda aromaterapéutica,Descanso y relajación,Me encanta porque ayuda a reducir el estrés y mejorar la calidad del sueño.,NEGATIVO,14,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,4,Bálsamo facial hidratante,Cuidado personal facial,Me gusta porque es perfecto para mi piel y me hace sentir con la brasa.,NEGATIVO,15,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,5,Lavas de baño naturales,Higiene personal y cuidado del cuerpo,"Me encanta porque es natural y fresca, y me hace sentir relajada.",NEGATIVO,12,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,6,Canelazo para el pelo,Cuidado personal del cabello,Me gusta porque es rico en antioxidantes y me hace sentir más saludable.,NEUTRO,13,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,7,Luz de barba crema,Higiene personal y cuidado del cabello,"Me encanta porque hace que mi barba sea más brillante y saludable, y es muy fácil de aplicar.",NEGATIVO,18,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,8,Cera para el cuerpo con aceite de argan,Higiene corporal y cuidado personal,"Me gusta porque es perfecta para mi piel y me hace sentir relajada, y tiene propiedades antioxidantes.",NEUTRO,17,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,9,Lavanda aromaterapéutica con aceite de bergamota,Descanso y relajación,"Me encanta porque ayuda a reducir el estrés y mejorar la calidad del sueño, y tiene propiedades antiinflamatorias.",NEGATIVO,18,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,llama3.2:1b,prompt_2_belleza,10,Bálsamo facial hidratante con hierba chamomila,Cuidado personal facial,"Me gusta porque es perfecto para mi piel y me hace sentir con la brasa, y tiene propiedades antioxidantes.",NEGATIVO,19,results/llama3.2_1b_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_1_electronicos,1,Fonosurround X6,audio,"Sistema de sonido inalámbrico de alta calidad, facil de instalar y con excelente calidad de sonido.",POSITIVO,16,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,2,Smartwatch Samsung Galaxy,electrodomésticos,Dispositivo de moda y funcionalidad. Tiene una interfaz fácil de usar y se siente cómodo en el brazo.,POSITIVO,18,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,3,Drone DJI Mavic,electrónica,Excelente dron de gran calidad con una cámara de alta definición y facilidad de uso.,POSITIVO,15,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,4,Portátil Lenovo,informática,Computadora portátil rápida y de diseño moderno. Pantalla brillante y teclado cómodo.,POSITIVO,12,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,5,Lavadora LG,electrodomésticos,Lavadora de gran capacidad y de lavado potente. Se siente solido y es fácil de utilizar.,POSITIVO,16,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,6,Celular iPhone 12,teléfonos móviles,Dispositivo de última generación con una cámara de alta calidad y diseño elegante.,POSITIVO,13,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,7,Auriculares Bose,audio,Auriculares de alta calidad y confortables. Son ideal para escuchar música en cualquier lugar.,POSITIVO,14,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,8,Impresora HP,impresoras,Impresora rápida y de alta calidad. Imprime documentos con gran precisión.,POSITIVO,11,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,9,Camara GoPro,electrónica,Cámara resistente y de alta calidad. Ideal para grabar videos en cualquier lugar.,POSITIVO,13,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_1_electronicos,10,Vacuum Dyson,electrodomésticos,Aspiradora potente y de diseño moderno. Limpia pisos en pocos minutos.,POSITIVO,11,results/mistral_latest_prompt_1_electronicos_10gen.txt
+10,mistral:latest,prompt_2_belleza,1,Nivea Crème,Crema corporal,"Una clásica, muy húmeda y rica. Ideal para proteger la piel durante el invierno.",POSITIVO,14,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,2,Palmer's Cocoa Butter,Crema corporal,Muy nutritiva y suave. Mantiene la piel tenera durante todo el año.,POSITIVO,12,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,3,Neutrogena Hydro Boost,Crema facial,Aguas frescas y crema húmeda. Mejora la apariencia de mi piel.,POSITIVO,11,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,4,Maybelline Super Stay,Maquillaje facial,Me encanta su duración. Muy fácil de aplicar y no se mancha.,POSITIVO,12,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,5,TRESemmé Shampoo,Shampoo,Limpia el cabello y le da brillo. Mejora la textura.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,6,Dove Antiperspirante,Antiperspirante,Bajo precio y efectivo. Muy suave en la piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,7,Clinique Mascara,Maquillaje ojos,Muy volumetrica y duradera. Mejora la apariencia de mis pestañas.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,8,Elizabeth Arden Toner,Tonificador,Me siente refrescante y se absorbe rápidamente.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,9,L'Oréal Serum,Serum facial,Mejora la apariencia de mi piel pero toma un tiempo para absorberse.,NEUTRO,12,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_2_belleza,10,Olay Antienvejecimiento,Crema facial,No me ha tenido mucha influencia en mi apariencia. Es un poco pesada.,NEGATIVO,13,results/mistral_latest_prompt_2_belleza_10gen.txt
+10,mistral:latest,prompt_3_hogar,1,Sarten Teflon,Cocina,Muy facil de limpiar y resiste el desgaste.,POSITIVO,8,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,2,Lavadora LG,Hogar,Toma mucho tiempo en lavar y secar.,NEGATIVO,7,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,3,Sillon IKEA,Hogar,"Comfortable y elegante, perfecto para la casa.",POSITIVO,7,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,4,Maquina de café Keurig,Cocina,Prepara café rápido y delicioso.,POSITIVO,5,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,5,Sarten de Acero Inoxidable,Cocina,Lento para calentarse pero duradero.,NEUTRO,5,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,6,Vacuum Dyson,Hogar,Elimina el polvo con gran eficiencia.,POSITIVO,6,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,7,Sarten de Barro,Cocina,Cocina bien pero se rompe fácil.,NEGATIVO,6,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,8,Mesa de Cocina IKEA,Hogar,Elegante y adecuada para la cocina.,POSITIVO,6,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,9,Forno Convection,Cocina,Requiere mucha atención y es lento.,NEGATIVO,6,results/mistral_latest_prompt_3_hogar_10gen.txt
+10,mistral:latest,prompt_3_hogar,10,Microondas Panasonic,Cocina,Rápido y fácil de utilizar.,POSITIVO,5,results/mistral_latest_prompt_3_hogar_10gen.txt
+20,llama3.2:1b,prompt_1_electronicos,1,Samsung TV,Electrónica,Me encantó la calidad de la pantalla y el diseño. Fue una compra excelente.,NEGATIVO,14,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,2,Sony Headphones,Electrónica,"Esto es genial, las altavoces son increíbles. Fue una compra excelente.",NEGATIVO,11,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,3,LG Refrigerador,Electrónica,Es muy rápido y el refrigerado es perfecto. Una gran elección.,POSITIVO,11,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,4,HP Laptop,Computadoras,Me encantó la relación calidad-precio y la confiabilidad. Fue una compra excelente.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,5,Samsung Limpieza de neveras,Electrónica,Era muy eficiente y limpió mi nevera de manera rápida. Una gran elección.,POSITIVO,13,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,6,Panasonic TV,Electrónica,Me encantó la calidad de la imagen y el diseño. Fue una compra excelente.,NEGATIVO,14,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,7,Sony Caja de aluminio,Electrónica,Era muy buena calidad y durabilidad. Una gran elección.,POSITIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,8,LG Ventilador,Eletronicos,Me encantó la eficiencia energética y el diseño. Fue una compra excelente.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,9,Samsung Proyector,Eletronicos,Me encantó la calidad de imagen y el diseño. Fue una compra excelente.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,10,Panasonic TV,Electrónica,Era muy buena calidad y durabilidad. Una gran elección.,POSITIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,11,Sony Caja de almacenamiento externo,Eletronicos,Era muy buena calidad y durabilidad. Una gran elección.,NEGATIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,12,LG Limpieza de electrodomésticos,Eletronicos,Me encantó la eficiencia y el diseño. Fue una compra excelente.,NEGATIVO,11,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,13,Samsung Proyector,Eletronicos,Me encantó la calidad de imagen y el diseño. Fue una compra excelente.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,14,Panasonic TV,Electrónica,Era muy buena calidad y durabilidad. Una gran elección.,POSITIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,15,Sony Caja de almacenamiento externo,Eletronicos,Era muy buena calidad y durabilidad. Una gran elección.,NEGATIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,16,LG Ventilador,Eletronicos,Me encantó la eficiencia energética y el diseño. Fue una compra excelente.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,17,Samsung Proyector,Eletronicos,Me encantó la calidad de imagen y el diseño. Fue una compra excelente.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,18,Panasonic TV,Electrónica,Era muy buena calidad y durabilidad. Una gran elección.,POSITIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,19,Sony Caja de almacenamiento externo,Eletronicos,Era muy buena calidad y durabilidad. Una gran elección.,NEGATIVO,9,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_1_electronicos,20,LG Limpieza de electrodomésticos,Eletronicos,Me encantó la eficiencia y el diseño. Fue una compra excelente.,NEGATIVO,11,results/llama3.2_1b_prompt_1_electronicos_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,1,Fogonete electrico de cocina,electrico,Me encanta el fogonete electrico de cocina que me ha ayudado a cocinar con facilidad y ahorrar energía. El modelo es muy adecuado para mi tamaño de cocina., positively ,28,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,2,Sopas en hielo,sacos,"Me gusta los sopas en hielo, es una excelente opción para una cena ligera y nutritiva. La calidad del sabor es excelente.", positivo ,22,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,3,Cerámica para servir,ceramica,"La cerámica es muy buena para servir, no se deforma fácilmente y tiene un buen color. Me encanta el estilo y la calidad.", positivo ,23,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,4,Lavadora inalámbrica,inalámbrico,"Me encanta la lavadora inalámbrica, es rápida y eficiente. La pantalla de display es muy útil para ver qué se está haciendo durante el ciclo.", positivo ,25,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,5,Sistema de cocineta,cocineta,"Me gusta el sistema de cocineta, es muy intuitivo y fácil de usar. La calidad del material es excelente.", positivo ,19,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,6,Papas arrugadas,salsas,Las papas arrugadas son una excelente opción para un plato ligero y delicioso. La calidad del sabor es excelente., positivo ,19,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,7,Mantel de TV,manteles,"Me encanta el mantel de TV, es muy elegante y tiene un buen ajuste. La calidad del material es excelente.", positivo ,20,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,8,Lámpara LED,lápiz,"Me gusta la lámpara LED, es muy segura y tiene un buen brillo. La calidad del material es excelente.", positivo ,19,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,9,Libros de cocina,libros,"Me encanta los libros de cocina, son una excelente opción para aprender a cocinar. La calidad del contenido es excelente.", positivo ,20,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,10,Cafetera,cafeteras,"Me gusta la cafetera, es muy fácil de usar y tiene un buen sabor. La calidad del material es excelente.", positivo ,20,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,11,Piñones frescos,frutas,"Me encanta los piñones frescos, son una excelente opción para un snack ligero y delicioso. La calidad del sabor es excelente.", positivo ,21,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,12,Cocina de cerámica,ceramica,"Me gusta la cocina de cerámica, es muy elegante y tiene un buen estilo. La calidad del material es excelente.", positivo ,20,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,13,Piscinas,piscinas,"Me encanta las piscinas, son una excelente opción para un lugar relajante y cómodo. La calidad del material es excelente.", positivo ,20,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,14,Cocinero de acero inoxidable,cocineros,"Me gusta el cocinero de acero inoxidable, es muy fácil de limpiar y tiene un buen acabado. La calidad del material es excelente.", positivo ,23,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,15,Lámpara solar,lápiz,"Me encanta la lámpara solar, es muy segura y tiene un buen brillo. La calidad del material es excelente.", positivo ,19,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,16,Sopas de carne,sacos,"Me gusta las sopas de carne, son una excelente opción para un plato ligero y nutritivo. La calidad del sabor es excelente.", positivo ,22,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,17,Fideos en hielo,fideos,"Me encanta los fideos en hielo, son una excelente opción para un snack ligero y delicioso. La calidad del sabor es excelente.", positivo ,22,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,18,Limonada con limón fresco,limonadas,"Me gusta la limonada con limón fresco, es una excelente opción para un refresco ligero y delicioso. La calidad del sabor es excelente.", positivo ,23,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,19,Pintura de pintura,pinturas,"Me encanta las pinturas, son una excelente opción para decorar un espacio. La calidad del material es excelente.", positivo ,18,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,llama3.2:1b,prompt_3_hogar,20,Salsas de tomate,salsas,"Me gusta las salsas de tomate, son una excelente opción para acompañar un plato ligero y delicioso. La calidad del sabor es excelente.", positivo ,23,results/llama3.2_1b_prompt_3_hogar_20gen.txt
+20,mistral:latest,prompt_2_belleza,1,Shampoo Pantene Pro-V,Cuidado de cabello,Este shampoo me hace el cabello brillante y fácilmente peinable.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,2,Gel de manos Dove,Cuidado personal,Me queda la piel suave y sin olor.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,3,Bálsamo Labello Rose Petal,Cuidado personal,El aroma es hermoso y me protege de las sequedades.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,4,Mascarilla faccial Neutrogena,Cuidado facial,Me hace el rostro más suave y limpio.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,5,Barrilla Dove,Cuidado personal,Es muy suave y me hace la barrilla limpia.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,6,Sabón OxiClean,Límpieza de ropa,Quita las manchas con facilidad.,POSITIVO,5,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,7,Batido facial Olay Regenerist,Cuidado facial,Me hace el rostro más joven y fresco.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,8,Mascara Maybelline Lash Sensational,Maquillaje,Me hace las pestanyas más visibles y naturales.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,9,Crema facial Neutrogena Hydro Boost,Cuidado facial,Me ayuda a mantener la hidratación del rostro.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,10,Sabón Dove Para Cuerpo,Cuidado personal,Tiene un aroma agradable y me hace el cuerpo limpio.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,11,Batido facial St. Ives Apricot Scrub,Cuidado facial,Me ayuda a exfoliar el rostro y quita la grasa.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,12,Bálsamo Labello Coconut Sun Kissed,Cuidado personal,El aroma es muy agradable y me protege de las sequedades.,POSITIVO,11,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,13,Mascara L'Oréal Paris Voluminous,Maquillaje,Me hace las pestanyas más visibles y naturales.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,14,Bálsamo Labello Vanilla & Brown Sugar,Cuidado personal,El aroma es muy agradable y me protege de las sequedades.,POSITIVO,11,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,15,Sabón Dove Para Cuerpo Sensitivo,Cuidado personal,Es muy suave y me ayuda a lidiar con la sensibilidad de mi piel.,POSITIVO,14,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,16,Mascarilla faccial Olay Regenerist,Cuidado facial,Me hace el rostro más suave y fresco.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,17,Bálsamo Labello Coconut Sun Kissed,Cuidado personal,El aroma es muy agradable y me protege de las sequedades.,POSITIVO,11,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,18,Mascara L'Oréal Paris Telescopic,Maquillaje,Me hace las pestanyas más visibles y naturales.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,19,Batido facial St. Ives Apricot Scrub,Cuidado facial,Me ayuda a exfoliar el rostro y quita la grasa.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_20gen.txt
+20,mistral:latest,prompt_2_belleza,20,Sabón Dove Para Cuerpo,Cuidado personal,Tiene un aroma agradable y me hace el cuerpo limpio.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_20gen.txt
+50,llama3.2:1b,prompt_1_electronicos,123456789,Laptop Lenovo,Electrónica,10 de 5. Este laptop es el mejor producto que he comprado en años.,NEGATIVO,14,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,234567890,Teléfono Samsung,Electrónica,9 de 5. El teléfono es muy rápido y tiene una gran pantalla.,POSITIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,345678901,Refrigerador Whirlpool,Electrónica,8 de 5. Este refrigerador es muy cómodo y tiene una gran capacidad.,POSITIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,456789012,Sistema deAudio Sonos,Electrónica,7 de 5. El sistema de audio es muy claro y tiene una gran variedad de música.,POSITIVO,17,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,567890123,Luz LED,Electrónica,6 de 5. La luz es muy brillante y tiene una gran durabilidad.,NEUTRO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,678901234,Cable HDMI,Electrónica,5 de 5. El cable es muy seguro y tiene una gran calidad.,POSITIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,789012345,Teclado Logitech,Electrónica,4 de 5. El teclado es muy preciso y tiene una gran variedad de funciones.,NEUTRO,15,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,890123456,Mazo deDiseño SketchUp,Electrónica,3 de 5. El mazón es muy útil pero no es perfecto.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,981234567,Papel deCarta,Cocina,2 de 5. El papel es muy delgado pero no tiene muchas funciones.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,2345678901,Mazo deJabón,HigienePersonal,2 de 5. El mazón es muy útil pero no es perfecto.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,3456789012,Cerámica,Artesanía,1 de 5. La cerámica es muy aburrida y no tiene muchas opciones.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,4567890123,Mazo deLectura,Libros,1 de 5. El mazón es muy útil pero no es perfecto.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,5678901234,Papel deFamiliaridad,Cocina,0 de 5. El papel es muy húmedo y no tiene muchas opciones.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,6789012345,Mazo deHigiene,HigienePersonal,-1 de 5. El mazón es muy aburrida y no tiene muchas opciones.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,7890123456,Cerámica,Artesanía,-1 de 5. La cerámica es muy aburrida y no tiene muchas opciones.,NEGATIVO,13,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,llama3.2:1b,prompt_1_electronicos,8901234567,Mazo deLectura,Libros,-1 de 5. El mazón es muy útil pero no es perfecto.,NEGATIVO,12,results/llama3.2_1b_prompt_1_electronicos_50gen.txt
+50,mistral:latest,prompt_2_belleza,1,Shampoo L'Oréal Elvive,Cuidado cabello,Muy efectivo y suave para el pelo seco. Recomendado.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,2,Aceite de arándano rojo Burt's Bees,Cuidado cara,Satisfactorio. Mejora la apariencia de la piel seca.,NEUTRO,8,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,3,Mascarilla de barro Origins,Cuidado cara,Excelente resultado. Mejora la textura y brillo de mi piel.,POSITIVO,10,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,4,Crema facial Olay,Cuidado cara,Mejora la humedad de mi piel seca.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,5,Batón de maquillaje Maybelline,Maquillaje,Fácil de usar y seco rápido.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,6,Lipstick MAC,Maquillaje,Color vivo y duradero.,POSITIVO,4,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,7,Crema de uñas OPI,Uñas,Mejora la calidad de mis uñas.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,8,Bálsamo para labios Burt's Bees,Cuidado cara,Húmedo y protector para los labios secos.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,9,Jabón de baño Dove,Cuidado personal,Mejora el olor y la suavidad de mi piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,10,Aceite de coco Coconut Oil,Cuidado personal,Una excelente opción para el cuidado general.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,11,Spray antiperspirante Dove,Cuidado personal,Mejora la olor y la duración.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,12,Piel de limón Dial,Cuidado personal,Fácil de usar y efectivo.,POSITIVO,5,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,13,Mascara Benefit They're Real!,Maquillaje,Mejora la longitud y volumen de mis cilios.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,14,Mascara Maybelline Lash Sensational,Maquillaje,Mejora la apariencia de mis cilios.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,15,Lip balm ChapStick,Cuidado cara,Mejora la humedad de mis labios secos.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,16,Crema para cicatrices Neutrogena,Cuidado cara,Reduce la visibilidad de mis cicatrices.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,17,Aceite de arándano rojo Burt's Bees,Cuidado personal,Mejora la calidad de mi piel seca.,NEUTRO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,18,Aceite de arándano rojo The Body Shop,Cuidado personal,Mejora la suavidad y brillantez de mi piel.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,19,Crema facial St. Ives,Cuidado cara,Mejora la humedad de mi piel seca.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,20,Lavado facial Neutrogena,Cuidado cara,Mejora la limpieza y el equilibrio de mi piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,21,Mascarilla de barro L'Oréal,Cuidado cara,Mejora la textura y brillo de mi piel.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,22,Crema facial Olay,Cuidado cara,Mejora la humedad y la suavidad de mi piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,23,Crema para cicatrices Neutrogena,Cuidado cara,Mejora la visibilidad de mis cicatrices.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,24,Mascara Maybelline Lash Sensational,Maquillaje,Mejora la apariencia de mis cilios.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,25,Batón de maquillaje Maybelline,Maquillaje,Fácil de usar y seco rápido.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,26,Crema para uñas OPI,Uñas,Mejora la calidad de mis uñas.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,27,Bálsamo para labios Burt's Bees,Cuidado cara,Húmedo y protector para los labios secos.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,28,Bálsamo para labios Vaseline,Cuidado cara,Húmedo y protector para los labios secos.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,29,Jabón de baño Dove,Cuidado personal,Mejora el olor y la suavidad de mi piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,30,Aceite de coco Coconut Oil,Cuidado personal,Una excelente opción para el cuidado general.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,31,Spray antiperspirante Dove,Cuidado personal,Mejora la olor y la duración.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,32,Piel de limón Dial,Cuidado personal,Fácil de usar y efectivo.,POSITIVO,5,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,33,Mascara Benefit They're Real!,Maquillaje,Mejora la longitud y volumen de mis cilios.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,34,Lipstick MAC,Maquillaje,Color vivo y duradero.,POSITIVO,4,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,35,Crema para uñas OPI,Uñas,Mejora la calidad de mis uñas.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,36,Bálsamo para labios Burt's Bees,Cuidado cara,Húmedo y protector para los labios secos.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,37,Jabón de baño Dove,Cuidado personal,Mejora el olor y la suavidad de mi piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,38,Aceite de coco Coconut Oil,Cuidado personal,Una excelente opción para el cuidado general.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,39,Spray antiperspirante Dove,Cuidado personal,Mejora la olor y la duración.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,40,Piel de limón Dial,Cuidado personal,Fácil de usar y efectivo.,POSITIVO,5,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,41,Mascara Benefit They're Real!,Maquillaje,Mejora la longitud y volumen de mis cilios.,POSITIVO,8,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,42,Lipstick MAC,Maquillaje,Color vivo y duradero.,POSITIVO,4,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,43,Crema para uñas OPI,Uñas,Mejora la calidad de mis uñas.,POSITIVO,6,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,44,Bálsamo para labios Burt's Bees,Cuidado cara,Húmedo y protector para los labios secos.,POSITIVO,7,results/mistral_latest_prompt_2_belleza_50gen.txt
+50,mistral:latest,prompt_2_belleza,45,Jabón de baño Dove,Cuidado personal,Mejora el olor y la suavidad de mi piel.,POSITIVO,9,results/mistral_latest_prompt_2_belleza_50gen.txt

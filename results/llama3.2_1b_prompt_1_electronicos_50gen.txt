@@ -1,0 +1,116 @@
+```json
+[
+    {
+        "id": "123456789",
+        "producto": "Laptop Lenovo",
+        "categoria": "Electrónica",
+        "resena": "10 de 5. Este laptop es el mejor producto que he comprado en años.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "234567890",
+        "producto": "Teléfono Samsung",
+        "categoria": "Electrónica",
+        "resena": "9 de 5. El teléfono es muy rápido y tiene una gran pantalla.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": "345678901",
+        "producto": "Refrigerador Whirlpool",
+        "categoria": "Electrónica",
+        "resena": "8 de 5. Este refrigerador es muy cómodo y tiene una gran capacidad.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": "456789012",
+        "producto": "Sistema deAudio Sonos",
+        "categoria": "Electrónica",
+        "resena": "7 de 5. El sistema de audio es muy claro y tiene una gran variedad de música.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": "567890123",
+        "producto": "Luz LED",
+        "categoria": "Electrónica",
+        "resena": "6 de 5. La luz es muy brillante y tiene una gran durabilidad.",
+        "sentimiento": "NEUTRO"
+    },
+    {
+        "id": "678901234",
+        "producto": "Cable HDMI",
+        "categoria": "Electrónica",
+        "resena": "5 de 5. El cable es muy seguro y tiene una gran calidad.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": "789012345",
+        "producto": "Teclado Logitech",
+        "categoria": "Electrónica",
+        "resena": "4 de 5. El teclado es muy preciso y tiene una gran variedad de funciones.",
+        "sentimiento": "NEUTRO"
+    },
+    {
+        "id": "890123456",
+        "producto": "Mazo deDiseño SketchUp",
+        "categoria": "Electrónica",
+        "resena": "3 de 5. El mazón es muy útil pero no es perfecto.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "981234567",
+        "producto": "Papel deCarta",
+        "categoria": "Cocina",
+        "resena": "2 de 5. El papel es muy delgado pero no tiene muchas funciones.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "2345678901",
+        "producto": "Mazo deJabón",
+        "categoria": "HigienePersonal",
+        "resena": "2 de 5. El mazón es muy útil pero no es perfecto.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "3456789012",
+        "producto": "Cerámica",
+        "categoria": "Artesanía",
+        "resena": "1 de 5. La cerámica es muy aburrida y no tiene muchas opciones.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "4567890123",
+        "producto": "Mazo deLectura",
+        "categoria": "Libros",
+        "resena": "1 de 5. El mazón es muy útil pero no es perfecto.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "5678901234",
+        "producto": "Papel deFamiliaridad",
+        "categoria": "Cocina",
+        "resena": "0 de 5. El papel es muy húmedo y no tiene muchas opciones.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "6789012345",
+        "producto": "Mazo deHigiene",
+        "categoria": "HigienePersonal",
+        "resena": "-1 de 5. El mazón es muy aburrida y no tiene muchas opciones.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "7890123456",
+        "producto": "Cerámica",
+        "categoria": "Artesanía",
+        "resena": "-1 de 5. La cerámica es muy aburrida y no tiene muchas opciones.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": "8901234567",
+        "producto": "Mazo deLectura",
+        "categoria": "Libros",
+        "resena": "-1 de 5. El mazón es muy útil pero no es perfecto.",
+        "sentimiento": "NEGATIVO"
+    }
+]
+```

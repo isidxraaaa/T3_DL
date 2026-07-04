@@ -1,0 +1,3 @@
+[
+   { "id": 1, "producto": "Smartphone Galaxy S23", "categoria": "Teléfonos móviles", "resena": "Excelente cámara con gran tamaño de pantalla y una batería duradera. Apto para todo momento.", "sentimiento": "POSITIVO" },
+   { "iddependent on your request for a different topic or details, I can adjust the response accordingly.)

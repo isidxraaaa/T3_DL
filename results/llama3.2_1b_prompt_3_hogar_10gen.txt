@@ -1,0 +1,43 @@
+```
+[
+  {
+    "id": 1,
+    "producto": "Tortilla de patatas", "categoria": "Comida", "resena": "Una tortilla excelente, perfecta para un desayuno ligero y sabroso.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 2,
+    "producto": "Herramientas de cocina", "categoria": "Hogar", "resena": "Esto es increíble, las herramientas son muy duraderas y fáciles de limpiar.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 3,
+    "producto": "Olla a presión", "categoria": "Comida", "resena": "Me encanta esta olla, es perfecta para cocinar rápido y con poco esfuerzo.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 4,
+    "producto": "Lavarolla", "categoria": "Hogar", "resena": "Esto es fantástico, muy fácil de usar y limpiar sin preocuparme por las gotes.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 5,
+    "producto": "Fideos caseros", "categoria": "Comida", "resena": "Me encanta este fideo, es rico y delicioso de comer solo", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 6,
+    "producto": "Cuchara de madera", "categoria": "Hogar", "resena": "Esto es un regalo perfecto, muy elegante y duradero.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 7,
+    "producto": "Taza de café", "categoria": "Comida", "resena": "Me encanta este tazón para café, es muy estiloso y delicioso de comer al aire libre.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 8,
+    "producto": "Cuchillo de carbono", "categoria": "Hogar", "resena": "Esto es fantástico, muy rápido de cortar y fácil de limpiar.", "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 9,
+    "producto": "Pan de molde", "categoria": "Comida", "resena": "Me encanta este pan para tostado, es delicioso y seguro para comer casero.", "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 10,
+    "producto": "Jugo de naranja", "categoria": "Comida", "resena": "Me encanta este jugo, es tan delicioso y saludable para tomar antes de ir a la cama.", "sentimiento": "NEUTRO"
+}
+```

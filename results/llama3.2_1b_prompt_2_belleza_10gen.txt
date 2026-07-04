@@ -1,0 +1,74 @@
+```
+[
+  {
+    "id": 1,
+    "producto": "Luz de barba sintética",
+    "categoria": "Higiene personal y cuidado del cabello",
+    "reseña": "Me encanta porque hace que mi barba sea más brillante y saludable.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 2,
+    "producto": "Cera para el cuerpo suave",
+    "categoria": "Higiene corporal y cuidado personal",
+    "reseña": "Me gusta porque es perfecta para mi piel y me hace sentir relajada.",
+    "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 3,
+    "producto": "Lavanda aromaterapéutica",
+    "categoria": "Descanso y relajación",
+    "reseña": "Me encanta porque ayuda a reducir el estrés y mejorar la calidad del sueño.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 4,
+    "producto": "Bálsamo facial hidratante",
+    "categoria": "Cuidado personal facial",
+    "reseña": "Me gusta porque es perfecto para mi piel y me hace sentir con la brasa.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 5,
+    "producto": "Lavas de baño naturales",
+    "categoria": "Higiene personal y cuidado del cuerpo",
+    "reseña": "Me encanta porque es natural y fresca, y me hace sentir relajada.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 6,
+    "producto": "Canelazo para el pelo",
+    "categoria": "Cuidado personal del cabello",
+    "reseña": "Me gusta porque es rico en antioxidantes y me hace sentir más saludable.",
+    "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 7,
+    "producto": "Luz de barba crema",
+    "categoria": "Higiene personal y cuidado del cabello",
+    "reseña": "Me encanta porque hace que mi barba sea más brillante y saludable, y es muy fácil de aplicar.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 8,
+    "producto": "Cera para el cuerpo con aceite de argan",
+    "categoria": "Higiene corporal y cuidado personal",
+    "reseña": "Me gusta porque es perfecta para mi piel y me hace sentir relajada, y tiene propiedades antioxidantes.",
+    "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 9,
+    "producto": "Lavanda aromaterapéutica con aceite de bergamota",
+    "categoria": "Descanso y relajación",
+    "reseña": "Me encanta porque ayuda a reducir el estrés y mejorar la calidad del sueño, y tiene propiedades antiinflamatorias.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 10,
+    "producto": "Bálsamo facial hidratante con hierba chamomila",
+    "categoria": "Cuidado personal facial",
+    "reseña": "Me gusta porque es perfecto para mi piel y me hace sentir con la brasa, y tiene propiedades antioxidantes.",
+    "sentimiento": "NEGATIVO"
+  }
+]
+```

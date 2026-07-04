@@ -1,0 +1,11 @@
+[{"id":1,"producto":"Electrolux Lavavajillas","categoria":"Maquinaria de cocina","resena":"Son unos lavaplatos muy versátiles que cumplen con sus funciones bien y tienen un diseño atractivo para el hogar.","sentimiento":"POSITIVO"},
+{"id":2,"producto":"NaturaFresh Cebollas","categoria":"Alimentos frescos","resena":"Las cebollas de este producto están muy bien conservadas y tienen un sabor natural que se mantiene durante bastante tiempo. ","sentimiento":"POSITIVO"},
+{"idty":3,"producto":"Colección de ollas y guantes de cerámica","categoria":"Utensilios domésticos","resena":"Estos utensilios son muy útiles para preparar platos tradicionales, su calidad es impresionante. ","sentimiento":"POSITIVO"},
+{"id":4,"producto":"Solaray Lámpara de colores","categoria":"Iluminación doméstica","resena":"La luz cambiante y la capacidad para combinarla con otros accesorios hace que esta estén muy a la moda. ","sentimiento":"POSITIVO"},
+{"id":5,"producto":"Samsung Galaxy Tab S7 Ultra 12.9","categoria":"Tecnología de hogar","resena":"Esta tablet es una opción versátil y robusta, con buenas especificaciones para gente que trabaja en casa o por placer.", "sentimiento": "POSITIVO"},
+{"id":6,"producto":"Frigorífico GamaGlobo","categoria":"Refrigeradores domésticos",resena":"El frigorífico es muy espacioso y tiene un buen sistema de refrigeración, pero la configuración del botón no siempre es intuitiva.", "sentimiento": "NEUTRO"},
+{"id":7,"producto":"Freshly Picked Frutos","categoria":"Alimentos frescos",resena:"Los frutos congelados mantienen su sabor y textura muy bien, aunque la falta de variedad es algo decepcionante.", "sentimiento": "NEUTRO"},
+{"id":8,"producto":"Bauhaus Blanc Cava","categoria":"Vinos",resena:"El blanco cava Bauhaus tiene un agradable sabor y su estructura le permite conservarse durante mucho tiempo en buen estado.", "sentimiento": "POSITIVO"},
+{"id":9,"producto":"Titanium Stainless Steel Kitchen Sink","categoria":"Utensilios domésticos",resena:"La resistencia y calidad del material son impresionantes, aunque la instalación requiere un poco de habilidad.", "sentimiento": "NEUTRO"},
+{"id":10,"producto":"Pulsera Aromática","categoria":"Accesorios domésticos",resena:"La pulsera es elegante y funciona muy bien para mantener el ambiente del hogar agradable, pero puede ser un poco costosa.", "sentimiento": "NEUTRO"}
+]

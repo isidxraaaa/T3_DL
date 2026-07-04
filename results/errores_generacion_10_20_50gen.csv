@@ -1,0 +1,18 @@
+﻿cantidad_solicitada,modelo,prompt_id,archivo_origen,error
+10,llama3.2:1b,prompt_3_hogar,results/llama3.2_1b_prompt_3_hogar_10gen.txt,Expecting value: line 1 column 1 (char 0)
+10,phi3:mini,prompt_1_electronicos,results/phi3_mini_prompt_1_electronicos_10gen.txt,Unterminated string starting at: line 3 column 6 (char 227)
+10,phi3:mini,prompt_2_belleza,results/phi3_mini_prompt_2_belleza_10gen.txt,"Expecting ',' delimiter: line 4 column 73 (char 484)"
+10,phi3:mini,prompt_3_hogar,results/phi3_mini_prompt_3_hogar_10gen.txt,Expecting property name enclosed in double quotes: line 6 column 84 (char 1263)
+20,llama3.2:1b,prompt_2_belleza,results/llama3.2_1b_prompt_2_belleza_20gen.txt,
+20,phi3:mini,prompt_1_electronicos,results/phi3_mini_prompt_1_electronicos_20gen.txt,Expecting ':' delimiter: line 3 column 98 (char 268)
+20,phi3:mini,prompt_2_belleza,results/phi3_mini_prompt_2_belleza_20gen.txt,Expecting ':' delimiter: line 23 column 13 (char 1945)
+20,phi3:mini,prompt_3_hogar,results/phi3_mini_prompt_3_hogar_20gen.txt,Expecting ':' delimiter: line 5 column 27 (char 260)
+20,mistral:latest,prompt_1_electronicos,results/mistral_latest_prompt_1_electronicos_20gen.txt,
+20,mistral:latest,prompt_3_hogar,results/mistral_latest_prompt_3_hogar_20gen.txt,
+50,llama3.2:1b,prompt_2_belleza,results/llama3.2_1b_prompt_2_belleza_50gen.txt,
+50,llama3.2:1b,prompt_3_hogar,results/llama3.2_1b_prompt_3_hogar_50gen.txt,"Expecting ',' delimiter: line 351 column 5 (char 14897)"
+50,phi3:mini,prompt_1_electronicos,results/phi3_mini_prompt_1_electronicos_50gen.txt,Expecting ':' delimiter: line 4 column 13 (char 516)
+50,phi3:mini,prompt_2_belleza,results/phi3_mini_prompt_2_belleza_50gen.txt,Invalid control character at: line 4 column 129 (char 519)
+50,phi3:mini,prompt_3_hogar,results/phi3_mini_prompt_3_hogar_50gen.txt,Expecting value: line 11 column 14 (char 1388)
+50,mistral:latest,prompt_1_electronicos,results/mistral_latest_prompt_1_electronicos_50gen.txt,
+50,mistral:latest,prompt_3_hogar,results/mistral_latest_prompt_3_hogar_50gen.txt,

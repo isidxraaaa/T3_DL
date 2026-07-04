@@ -1,0 +1,145 @@
+ {
+
+  "reviews": [
+    {
+      "id": 1,
+      "producto": "Sarten Teflon",
+      "categoria": "Cocina",
+      "resena": "Piezas robustas y duraderas, facilita la limpieza.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 2,
+      "producto": "Licuadora Portátil",
+      "categoria": "Cocina",
+      "resena": "Funciona bien para hielo y bebidas. Sencillo de limpiar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 3,
+      "producto": "Cuchillo de Cocina",
+      "categoria": "Cocina",
+      "resena": "Punta se mantiene afilada y corta bien.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 4,
+      "producto": "Fogón Portátil",
+      "categoria": "Cocina",
+      "resena": "Fácil de transportar y calienta rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 5,
+      "producto": "Pizarra de Cocina",
+      "categoria": "Cocina",
+      "resena": "Limpia rápidamente y es fácil de escribir.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 6,
+      "producto": "Sarten Tin",
+      "categoria": "Cocina",
+      "resena": "Conduce calor uniformemente y se limpia fácilmente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 7,
+      "producto": "Aireador de Planta",
+      "categoria": "Hogar",
+      "resena": "Mueve el aire sin ruidos. Ayuda a mantener la humedad bajo control.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 8,
+      "producto": "Lavadora Frontal",
+      "categoria": "Hogar",
+      "resena": "Sigue funcionando bien después de muchos años.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 9,
+      "producto": "Secadora de Ropa",
+      "categoria": "Hogar",
+      "resena": "Seca la ropa rápidamente y con poca ruido.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 10,
+      "producto": "Silla de Baño",
+      "categoria": "Hogar",
+      "resena": "Comfortable y facilita la higiene.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 11,
+      "producto": "Dryer de Aire",
+      "categoria": "Hogar",
+      "resena": "Seca el aire y elimina el humedad.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 12,
+      "producto": "Váteres",
+      "categoria": "Baño",
+      "resena": "Sencillo de instalar y reduce el olor en el baño.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 13,
+      "producto": "Cuchara de Baño",
+      "categoria": "Baño",
+      "resena": "Fácil de limpiar y robusta.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 14,
+      "producto": "Pelota de Baño",
+      "categoria": "Baño",
+      "resena": "Lleva el jugo sin deshacerse y resiste bien.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 15,
+      "producto": "Espátula de Cocina",
+      "categoria": "Cocina",
+      "resena": "Fácil de limpiar y no suelta la masa.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 16,
+      "producto": "Sarten de Piedra",
+      "categoria": "Cocina",
+      "resena": "Difunde el calor uniformemente y se limpia fácilmente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 17,
+      "producto": "Sarten de Hierro",
+      "categoria": "Cocina",
+      "resena": "Resiste el calor y es fácil de limpiar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 18,
+      "producto": "Pilas Recargables",
+      "categoria": "Hogar",
+      "resena": "Funcionan bien y tienen una duración larga.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 19,
+      "producto": "Lámpara de Baño",
+      "categoria": "Baño",
+      "resena": "Ilumina el baño adecuadamente y no consume mucha energía.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 20,
+      "producto": "Filtro de Agua",
+      "categoria": "Bebida",
+      "resena": "Mejora la calidad del agua y es fácil de instalar.",
+      "sentimiento": "POSITIVO"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+ {
+
+  "reviews": [
+    {
+      "id": 1,
+      "producto": "Sartén non-stick",
+      "categoria": "Cocina",
+      "resena": "Muy fácil de limpiar y ningún anécdoto sobre quemaduras.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 2,
+      "producto": "Lavadora frontal",
+      "categoria": "Hogar",
+      "resena": "Procesa la ropa rápida y eficiente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 3,
+      "producto": "Cuchillo de cocina",
+      "categoria": "Cocina",
+      "resena": "Corta bien pero necesita mantenimiento regular.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 4,
+      "producto": "Sobrador manual",
+      "categoria": "Cocina",
+      "resena": "Un producto funcional pero físicamente demandante.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 5,
+      "producto": "Vaso de agua con filtro",
+      "categoria": "Hogar",
+      "resena": "Filtro cambiable facilita mantener el agua limpio.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 6,
+      "producto": "Microondas compacta",
+      "categoria": "Cocina",
+      "resena": "Para una sola persona, calienta rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 7,
+      "producto": "Sartenes de hierro fundido",
+      "categoria": "Cocina",
+      "resena": "Resistente al calor y rústica belleza.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 8,
+      "producto": "Mesa de cocina extendible",
+      "categoria": "Cocina",
+      "resena": "Ofrece espacio adicional para platos.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 9,
+      "producto": "Batidora eléctrica",
+      "categoria": "Cocina",
+      "resena": "Facilita la mezcla y batido rápida.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 10,
+      "producto": "Hornos de microondas",
+      "categoria": "Cocina",
+      "resena": "Grande capacidad y calienta rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 11,
+      "producto": "Aspiradora de pared",
+      "categoria": "Hogar",
+      "resena": "Remueve la polvareda rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 12,
+      "producto": "Estufas eléctricas",
+      "categoria": "Cocina",
+      "resena": "Calienta la comida lenta y uniformemente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 13,
+      "producto": "Sartenes de Teflón",
+      "categoria": "Cocina",
+      "resena": "Fácil de limpiar y no necesita aceite.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 14,
+      "producto": "Aireador",
+      "categoria": "Hogar",
+      "resena": "Mejora la calidad del aire en el hogar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 15,
+      "producto": "Cafetera de café expreso",
+      "categoria": "Cocina",
+      "resena": "Prepara café rápido y con sabores intensos.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 16,
+      "producto": "Mesa de madera",
+      "categoria": "Hogar",
+      "resena": "Durable y versátil.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 17,
+      "producto": "Lavadora de ropa secadora",
+      "categoria": "Hogar",
+      "resena": "Seca la ropa rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 18,
+      "producto": "Bañera de baño",
+      "categoria": "Hogar",
+      "resena": "Ofrece espacio adicional para tomarse un baño.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 19,
+      "producto": "Cuchillo de cocina con guarda",
+      "categoria": "Cocina",
+      "resena": "Fácil de almacenar y se mantiene limpio.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 20,
+      "producto": "Cuchara de madera",
+      "categoria": "Hogar",
+      "resena": "Durable y ecológico.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 21,
+      "producto": "Sartenes de aluminio",
+      "categoria": "Cocina",
+      "resena": "Caliente rápidamente y es fácil de limpiar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 22,
+      "producto": "Fornillo para pizza",
+      "categoria": "Cocina",
+      "resena": "Prepara pizza de forma uniforme y rápida.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 23,
+      "producto": "Estufas eléctricas de cocina",
+      "categoria": "Cocina",
+      "resena": "Permite una gran versatilidad en la preparación de platos.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 24,
+      "producto": "Mesa extendible",
+      "categoria": "Hogar",
+      "resena": "Ofrece espacio adicional para comer en familia.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 25,
+      "producto": "Aspiradora de suelo",
+      "categoria": "Hogar",
+      "resena": "Elimina la polvareda y el polvo del suelo.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 26,
+      "producto": "Sartenes de acero inoxidable",
+      "categoria": "Cocina",
+      "resena": "Rústica belleza y resistente al calor.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 27,
+      "producto": "Batidora de mano",
+      "categoria": "Cocina",
+      "resena": "Fácil de usar y limpiar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 28,
+      "producto": "Lavadora de ropa de bajada frontal",
+      "categoria": "Hogar",
+      "resena": "Grande capacidad y facilita el cargue.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 29,
+      "producto": "Microondas de gran tamaño",
+      "categoria": "Cocina",
+      "resena": "Gran capacidad y calienta rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 30,
+      "producto": "Secadora de ropa",
+      "categoria": "Hogar",
+      "resena": "Eficiente y reduce la hora de secado.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 31,
+      "producto": "Batidora eléctrica",
+      "categoria": "Cocina",
+      "resena": "Prepara mezclas rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 32,
+      "producto": "Sartenes de cocción en hierro fundido",
+      "categoria": "Cocina",
+      "resena": "Calienta rápidamente y ofrece una buena resistencia al calor.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 33,
+      "producto": "Estufas de cocina",
+      "categoria": "Cocina",
+      "resena": "Calienta rápidamente y facilita la preparación de platos complejos.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 34,
+      "producto": "Bate de baño",
+      "categoria": "Hogar",
+      "resena": "Facilita la limpieza y mantiene el agua limpio.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 35,
+      "producto": "Mesa de madera extendible",
+      "categoria": "Hogar",
+      "resena": "Ofrece espacio adicional para comer.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 36,
+      "producto": "Aspiradora de suelo con filtro HEPA",
+      "categoria": "Hogar",
+      "resena": "Elimina polvo y alergéns.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 37,
+      "producto": "Fornillo de pizza con calentador",
+      "categoria": "Cocina",
+      "resena": "Prepara pizza uniformemente y rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 38,
+      "producto": "Sartenes de aluminio con teflón",
+      "categoria": "Cocina",
+      "resena": "Calienta rápidamente y es fácil de limpiar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 39,
+      "producto": "Cafetera de café expreso",
+      "categoria": "Cocina",
+      "resena": "Prepara café con sabores intensos y rápido.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 40,
+      "producto": "Mesa extendible con sillones",
+      "categoria": "Hogar",
+      "resena": "Ofrece espacio adicional y comodidad.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 41,
+      "producto": "Aspiradora de pared",
+      "categoria": "Hogar",
+      "resena": "Elimina polvo y alergéns.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 42,
+      "producto": "Batidora de mano con motor potente",
+      "categoria": "Cocina",
+      "resena": "Facilita la mezcla y batido rápida.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 43,
+      "producto": "Sartenes de cocción en hierro fundido",
+      "categoria": "Cocina",
+      "resena": "Calienta rápidamente y ofrece una buena resistencia al calor.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 44,
+      "producto": "Lavadora de ropa frontal",
+      "categoria": "Hogar",
+      "resena": "Calienta rápidamente y facilita el cargue.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 45,
+      "producto": "Cuchillo de cocina con guarda",
+      "categoria": "Cocina",
+      "resena": "Fácil de almacenar y se mantiene limpio.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 46,
+      "producto": "Aspiradora de suelo con cuchilla",
+      "categoria": "Hogar",
+      "resena": "Elimina polvo y alergéns.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 47,
+      "producto": "Estufa de cocción en hierro fundido",
+      "categoria": "Cocina",
+      "resena": "Calienta rápidamente y facilita la preparación de platos complejos.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 48,
+      "producto": "Batidora eléctrica",
+      "categoria": "Cocina",
+      "resena": "Prepara mezclas rápidamente.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 49,
+      "producto": "Sartenes de aluminio con teflón",
+      "categoria": "Cocina",
+      "resena": "Calienta rápidamente y es fácil de limpiar.",
+      "sentimiento": "POSITIVO"
+    },
+    {
+      "id": 50,
+      "producto": "Mesa extendible con sillones",
+      "categoria": "Hogar",
+      "resena": "Ofrece espacio adicional y comodidad.",
+      "sentimiento": "POSITIVO"
+    }
+  ]
+}

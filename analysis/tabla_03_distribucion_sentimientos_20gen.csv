@@ -1,0 +1,4 @@
+﻿modelo,POSITIVO,NEUTRO,NEGATIVO,NO_IDENTIFICADO
+llama3.2:1b,25,0,14,1
+phi3:mini,40,9,0,0
+mistral:latest,60,0,0,0

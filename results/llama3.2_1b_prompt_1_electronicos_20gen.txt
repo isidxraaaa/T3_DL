@@ -1,0 +1,144 @@
+```json
+[
+    {
+        "id": 1,
+        "producto": "Samsung TV",
+        "categoria": "Electrónica",
+        "resena": "Me encantó la calidad de la pantalla y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 2,
+        "producto": "Sony Headphones",
+        "categoria": "Electrónica",
+        "resena": "Esto es genial, las altavoces son increíbles. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 3,
+        "producto": "LG Refrigerador",
+        "categoria": "Electrónica",
+        "resena": "Es muy rápido y el refrigerado es perfecto. Una gran elección.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 4,
+        "producto": "HP Laptop",
+        "categoria": "Computadoras",
+        "resena": "Me encantó la relación calidad-precio y la confiabilidad. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 5,
+        "producto": "Samsung Limpieza de neveras",
+        "categoria": "Electrónica",
+        "resena": "Era muy eficiente y limpió mi nevera de manera rápida. Una gran elección.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 6,
+        "producto": "Panasonic TV",
+        "categoria": "Electrónica",
+        "resena": "Me encantó la calidad de la imagen y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 7,
+        "producto": "Sony Caja de aluminio",
+        "categoria": "Electrónica",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 8,
+        "producto": "LG Ventilador",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la eficiencia energética y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 9,
+        "producto": "Samsung Proyector",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la calidad de imagen y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 10,
+        "producto": "Panasonic TV",
+        "categoria": "Electrónica",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 11,
+        "producto": "Sony Caja de almacenamiento externo",
+        "categoria": "Eletronicos",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 12,
+        "producto": "LG Limpieza de electrodomésticos",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la eficiencia y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 13,
+        "producto": "Samsung Proyector",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la calidad de imagen y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 14,
+        "producto": "Panasonic TV",
+        "categoria": "Electrónica",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 15,
+        "producto": "Sony Caja de almacenamiento externo",
+        "categoria": "Eletronicos",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 16,
+        "producto": "LG Ventilador",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la eficiencia energética y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 17,
+        "producto": "Samsung Proyector",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la calidad de imagen y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 18,
+        "producto": "Panasonic TV",
+        "categoria": "Electrónica",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 19,
+        "producto": "Sony Caja de almacenamiento externo",
+        "categoria": "Eletronicos",
+        "resena": "Era muy buena calidad y durabilidad. Una gran elección.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 20,
+        "producto": "LG Limpieza de electrodomésticos",
+        "categoria": "Eletronicos",
+        "resena": "Me encantó la eficiencia y el diseño. Fue una compra excelente.",
+        "sentimiento": "NEGATIVO"
+    }
+]
+```

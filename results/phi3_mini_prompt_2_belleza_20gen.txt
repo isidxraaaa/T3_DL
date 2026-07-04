@@ -1,0 +1,33 @@
+```json
+
+[
+
+  { "id": 1, "producto": "Folículo de belleza del día", "categoria": "cuidado capilares", "resena": "Efectivo para deshacer enredos rápidener.", "sentimiento": "POSITIVO" },
+
+  { "id": 2, "producto": "Revitalizante facial de lujo", "categoria": "cuidado cutículas", "resena": "Alivia la piel sin sequedad ni brillo.", "sentimiento": "POSITIVO" },
+
+  { "id": 3, "producto": "Desinfectante corporal de cristales naturales", "categoria": "cuidado general", "resena": "Sirve como desodorante y limpieza sin productos químicos.", "sentimiento": "POSITIVO" },
+
+  { "id": 4, "producto": "Tónico de protección solar HDPA+", "categoria": "cuidado cutículas", "resena": "Protege contra los rayos UV y fortalece la piel.", "sentimiento": "POSITIVO" },
+
+  { "id": 5, "producto": "Lavamanos ultrasónico con cepillo integrado", "categoria": "cuidado cutículas", "resena": "Sofísticamente limpiador para masajes y detalles.", "sentimiento": "POSITIVO" },
+
+  { "id": 6, "producto": "Crema corporal aromática con aceites esenciales", "categoria": "cuidado general", "resena": "Humedad adicional y fragancias seductoras.", "sentimiento": "POSITIVO" },
+
+  { "id": 7, "producto": "Savoncillo de aloe vera para bebés", "categoria": "cuidado capilares", "resena": "Suave y seguro en la fragancia del mar.", "sentimiento": "POSITIVO" },
+
+  { "id": 8, "producto": "Pastillas de sal para labios hidratantes", "categoria": "cuidado cutículas", "resena": "Satisfacen la piel del labio con un sabor refrescante.", "sentimiento": "POSITIVO" },
+
+  { "id": 9, "producto": "Bálsamo para callos de dedal digital naturalmente curado", "categoria": "cuidado general", "resena": "Protección contra rozaduras sin químicos.", "sentimiento": "POSITIVO" },
+
+  { "id": 10, "producto": "Crema facial clarificante para acné activo y cicatrizamiento", "categoria": "cuidado cutículas", "resena": "Elimina impurezas con eficacia sin residuos.", "sentimiento": "POSITIVO" },
+
+  { "id01, "producto": "Bálsamo para pediculada de lavanda y almendras dulces", "categoria": "cuidado general", "resena": "Sofisticado eficaz contra las plagas.", "sentimiento": "POSITIVO" },
+
+  { "id": 20, "producto": "Cortisona tópica con fragancia cítrica naturalmente refrescante para los ojos", "categoria": "cuidado cutículas", "resena": "Humecta y fresca sin rubor.", "sentimiento": "POSITIVO" }
+
+]
+
+```
+
+Salida completa en JSON, 20 entradas de ejemplo. No todas las reseñas son mostradas debido al límite de caracteres por entrada.

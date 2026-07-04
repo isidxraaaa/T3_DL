@@ -1,0 +1,21 @@
+[
+    { "id": 1, "producto": "Telefono X-Fast", "categoria": "smartphone", "resena": "Muy rápido y fácil de usar, un excelente rendimiento.", "sentimiento": "POSITIVO" },
+    { "idged product that has changed the way I listen to music. The battery life is incredible!","categoria":"mp3 player", "resena": "Extendida duración del batería y música de calidad son impresionantes.", "sentimiento": "POSITIVO" },
+    { "id": 4, "producto": "Vestido SmartFit", "categoria": "smart clothing", "resena": "Comfortable pero no muy versátil. Puedes usarlo para ejercicio.", "sentimiento": "NEUTRO" },
+    { "id": 5, "producto": "Monitor XtremeView", "categoria": "monitor", "resena": "Pantalla brillante y alta resolución. Diseño atractivo pero caro.", "sentimiento": "POSITIVO" },
+    { "id": 6, "producto": "Cámara VisionPro", "categoria": "camara digital", "resena": "Fotografías de alta calidad con una gran cantidad de funciones. Me encanta.", "sentimiento": "POSITIVO" },
+    { "id": 7, "producto": "Roulette PlayStation VisionX", "categoria": "videojuego consola", "resena": "Sensaciones inmersivas pero tiene problemas de calidad del sonido.", "sentimiento": "NEUTRO" },
+    { "id": 8, "producto": "Juegos PlayStation VisionX Pro", "categoria": "videojuego consola", "resena": "Los juegos en alta definición y jugabilidad moderna hacen que sea una compra recomendada.", "sentimiento": "POSITIVO" },
+    { "id": 9, "producto": "Casco VisionX SafetyShield", "categoria": "cascos de realidad virtual", "resena": "Protección eficiente y cómoda para el uso prolongado.", "sentimiento": "POSITIVO" },
+    { "id": 10, "producto": "Televisor SmartViewX240", "categoria": "televisores inteligentes", "resena": "Buen precio y rendimiento sólido. La navegación es fácil.", "sentimiento": "POSITIVO" },
+    { "id": 10, "producto": "Samsung Galaxy X-FastVelocity", "categoria": "smartphone", "resena": "Tamaño pequeño y pantalla grande. Rendimiento impresionante.", "sentimiento": "POSITIVO" },
+    { "id": 12, "producto": "Samsung Galaxy X-FastVelocity Pro", "categoria": "smartphone", "resena": "Más pantalla y cámara avanzada. Alto rendimiento para multimedia.", "sentimiento": "POSITIVO" },
+    { "id": 13, "producto": "Casco VisionX SafetyShield Plus", "categoria": "cascos de realidad virtual", "resena": "Más protección y confort para uso prolongado. Excelente opción.", "sentimiento": "POSITIVO" },
+    { "id": 14, "producto": "Cámara VisionPro Maxx3000", "categoria": "camara digital", "resena": "Más calidad y funciones para crear contenidos fotográficos impresionantes.", "sentimiento": "POSITIVO" },
+    { "id": 15, "producto": "PlayStation VisionX Digital Edition", "categoria": "videojuego consola", "resena": "Diseño atractivo con una gran variedad de juegos y gráficos.", "sentimiento": "POSITIVO" },
+    { "id": 16, "producto": "Televisor SmartViewX240 Elite", "categoria": "televisores inteligentes", "resena": "Excelente rendimiento y batería extendida. Una opción sólida.", "sentimiento": "POSITIVO" },
+    { "id": 17, "producto": "Monitor XtremeView Pro", "categoria": "monitor", "resena": "Calidad de pantalla y alta resolución. Diseño moderno pero caro.", "sentimiento": "NEUTRO" },
+    { "id": 18, "producto": "Roulette PlayStation VisionX Gaming Bundle", "categoria": "videojuego consola con accesorios gratuitos", "resena": "Gratitud al recibirlo. Un bonito paquete para jugar en casa.", "sentimiento": "NEUTRO" },
+    { "id": 19, "producto": "Casco VisionX SafetyShield Elite Plus", "categoria": "cascos de realidad virtual con calentadores faciales incorporados para la sensación térmica.", "resena": "Protección avanzada y comodidad en el uso prolongado. Una mejora significativa sobre los modelos anteriores.", "sentimiento": "POSITIVO" },
+    { "id": 20, "producto": "Cámara VisionPro Maxx3K", "categoria": "camara digital con lentes intercambiables para diferentes condiciones de iluminación", "resena": "Una camada superior en funcionalidades y calidad óptica. Siempre encontraré mis fotos impresionantes.", "sentimiento": "POSITIVO" }
+]

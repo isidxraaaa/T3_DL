@@ -1,0 +1,354 @@
+{
+    "productos":
+    [
+        {
+            "id": 1,
+            "producto": "Colander de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este colador es muy práctico y fácil de limpiar. El acero inoxidable está bien ancho para colocarlo en la estufa.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 2,
+            "producto": "Tazón de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La taza está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 3,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 4,
+            "producto": "Cuchara de hierro fundido",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 5,
+            "producto": "Plato de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bonito y duradero. La base está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 6,
+            "producto": "Tazón de vidrio",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy ligero y fácil de transportar. La vidrio está bien refractario para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 7,
+            "producto": "Colador de plástico",
+            "categoria": "Hogar y cocina",
+            "resena": "Este colador es muy práctico y fácil de limpiar. El plástico está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 8,
+            "producto": "Tazón de madera",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La madera está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 9,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 10,
+            "producto": "Cuchara de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 11,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 12,
+            "producto": "Cuchara de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 13,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 14,
+            "producto": "Tazón de vidrio",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy ligero y fácil de transportar. La vidrio está bien refractario para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 15,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 16,
+            "producto": "Cuchara de hierro fundido",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 17,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 18,
+            "producto": "Tazón de madera",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La madera está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 19,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 20,
+            "producto": "Cuchara de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 21,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 22,
+            "producto": "Tazón de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 23,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 24,
+            "producto": "Cuchara de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 25,
+            "producto": "Plato de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bonito y duradero. La base está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 26,
+            "producto": "Tazón de vidrio",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy ligero y fácil de transportar. La vidrio está bien refractario para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 27,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 28,
+            "producto": "Cuchara de hierro fundido",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 29,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 30,
+            "producto": "Tazón de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La cobertura está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 31,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 32,
+            "producto": "Cuchara de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 33,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 34,
+            "producto": "Tazón de madera",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La madera está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 35,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 36,
+            "producto": "Cuchara de hierro fundido",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 37,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 38,
+            "producto": "Tazón de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy bonito y duradero. La base está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 39,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 40,
+            "producto": "Cuchara de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 41,
+            "producto": "Plato de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy elegante y duradero. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 42,
+            "producto": "Tazón de vidrio",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy ligero y fácil de transportar. La vidrio está bien refractario para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 43,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 44,
+            "producto": "Cuchara de hierro fundido",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy buena calidad y duradera. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 45,
+            "producto": "Plato de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 46,
+            "producto": "Tazón de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy bonito y duradero. La base está bien plana para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 47,
+            "producto": "Plato de metal",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy bueno calidad y duradero. La cobertura está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 48,
+            "producto": "Cuchara de acero inoxidable",
+            "categoria": "Hogar y cocina",
+            "resena": "Este cuchara es muy limpio y fácil de limpiar. El acero inoxidable está bien fundido para ser resistente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 49,
+            "producto": "Plato de cerámica",
+            "categoria": "Hogar y cocina",
+            "resena": "Este plato es muy elegante y duradero. La cobertura está bien firme para no romperse fácilmente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 50,
+            "producto": "Tazón de madera",
+            "categoria": "Hogar y cocina",
+            "resena": "Este tazón es muy elegante y duradero. La madera está bien resistente a los productos químicos.",
+            "sentimiento": "NEGATIVO"
+    ]
+}

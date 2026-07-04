@@ -1,0 +1,74 @@
+```json
+[
+    {
+        "id": 1,
+        "producto": "Sony A7R IV",
+        "categoria": "Cámara",
+        "reseña": "Una de las mejores cámaras DSLR en su precio.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 2,
+        "producto": "Apple AirPods Pro",
+        "categoria": "Dispositivo de audio",
+        "reseña": "Amplias bocas de sonido y una buena calidad de reproducción.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 3,
+        "producto": "LG OLED C9 Smart TV",
+        "categoria": "Teléfono inteligente",
+        "reseña": "Excelente pantalla por encima y bajo, con un diseño elegante.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 4,
+        "producto": "HP Envy x360 Laptop",
+        "categoria": "Laptop",
+        "reseña": "Baja precio para una buena calidad de producto y servicio.",
+        "sentimiento": "NEUTRO"
+    },
+    {
+        "id": 5,
+        "producto": "Samsung Q90 R/AQ80",
+        "categoria": "Refrigerador",
+        "reseña": "Excelente rendimiento energético y una buena calidad de productos.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 6,
+        "producto": "Microsoft Surface Laptop 3",
+        "categoria": "Laptop",
+        "reseña": "Baja precio para una excelente experiencia de usuario.",
+        "sentimiento": "NEUTRO"
+    },
+    {
+        "id": 7,
+        "producto": "Sony WH1000XM4", 
+        "categoria": "Dispositivo de audio",
+        "reseña": "Amplias bocas de sonido y una buena calidad de reproducción.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 8,
+        "producto": "Dell XPS Tower Desktop",
+        "categoria": "Desktop",
+        "reseña": "Muy asequible con una excelente experiencia de usuario.",
+        "sentimiento": "NEGATIVO"
+    },
+    {
+        "id": 9,
+        "producto": "Sony PlayStation 5",
+        "categoria": "Juego",
+        "reseña": "Una de las mejores consolas de juegos en su precio.",
+        "sentimiento": "POSITIVO"
+    },
+    {
+        "id": 10,
+        "producto": "Lenovo ThinkPad X1 Carbon",
+        "categoria": "Tableta portátil",
+        "reseña": "Baja precio para una excelente experiencia de usuario y rendimiento.",
+        "sentimiento": "NEUTRO"
+    }
+]
+```

@@ -1,0 +1,144 @@
+{
+  "resenas": [
+    {
+      "id": 1,
+      "producto": "Luz de corte personalizada para la cara",
+      "categoria": "Luzes de baño",
+      "resiensa": "Me encanta la forma en que ilumina mi rostro. Es perfecta para una noche de fiesta.",
+      "sentimiento": "NEGATIVO"
+    },
+    {
+      "id": 2,
+      "producto": "Crea con precisión pigmento de ojos",
+      "categoria": "Pintura orbital y/o párpados",
+      "resiensa": "El pigmento es increíble. Me queda como una película en mi ojo. Es perfecta para hacerme sentir elegante.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 3,
+      "producto": "Fragrance delicioso y rica",
+      "categoria": "Fragrances masculinos o femininos",
+      "resiensa": "Me encanta la forma en que me hace sentir. Es un perfume hermoso que no puedo evitar usar.",
+      "sentimiento": " Positivo"
+    },
+    {
+      "id": 4,
+      "producto": "Crea con precisión pigmento de labios",
+      "categoria": "Pintura de labios o marcadores de labios",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 5,
+      "producto": "Luzes personalizadas para el baño",
+      "categoria": "Luzes de baño o luces para el baño",
+      "resiensa": "Me encanta la forma en que ilumina mi espacio de baño. Es perfecta para una noche relajante.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 6,
+      "producto": "Creaciones con precisión pigmento de ojos",
+      "categoria": "Pintura orbital y/o párpados",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 7,
+      "producto": "Fragrances para una noche de fiesta",
+      "categoria": "Fragrances masculinos o femininos",
+      "resiensa": "Me encanta la forma en que me hace sentir. Es un perfume hermoso que no puedo evitar usar.",
+      "sentimiento": "NEGATIVO"
+    },
+    {
+      "id": 8,
+      "producto": "Pintura de labios para una noche de fiesta",
+      "categoria": "Pintura de labios o marcadores de labios",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 9,
+      "producto": "Luzes personalizadas para el baño",
+      "categoria": "Luzes de baño o luces para el baño",
+      "resiensa": "Me encanta la forma en que ilumina mi espacio de baño. Es perfecta para una noche relajante.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 10,
+      "producto": "Creaciones con precisión pigmento de ojos",
+      "categoria": "Pintura orbital y/o párpados",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 11,
+      "producto": "Fragrances para una noche de fiesta",
+      "categoria": "Fragrances masculinos o femininos",
+      "resiensa": "Me encanta la forma en que me hace sentir. Es un perfume hermoso que no puedo evitar usar.",
+      "sentimiento": "NEGATIVO"
+    },
+    {
+      "id": 12,
+      "producto": "Pintura de labios para una noche de fiesta",
+      "categoria": "Pintura de labios o marcadores de labios",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 13,
+      "producto": "Luzes personalizadas para el baño",
+      "categoria": "Luzes de baño o luces para el baño",
+      "resiensa": "Me encanta la forma en que ilumina mi espacio de baño. Es perfecta para una noche relajante.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 14,
+      "producto": "Creaciones con precisión pigmento de ojos",
+      "categoria": "Pintura orbital y/o párpados",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 15,
+      "producto": "Fragrances para una noche de fiesta",
+      "categoria": "Fragrances masculinos o femininos",
+      "resiensa": "Me encanta la forma en que me hace sentir. Es un perfume hermoso que no puedo evitar usar.",
+      "sentimiento": "NEGATIVO"
+    },
+    {
+      "id": 16,
+      "producto": "Pintura de labios para una noche de fiesta",
+      "categoria": "Pintura de labios o marcadores de labios",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 17,
+      "producto": "Luzes personalizadas para el baño",
+      "categoria": "Luzes de baño o luces para el baño",
+      "resiensa": "Me encanta la forma en que ilumina mi espacio de baño. Es perfecta para una noche relajante.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 18,
+      "producto": "Creaciones con precisión pigmento de ojos",
+      "categoria": "Pintura orbital y/o párpados",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    },
+    {
+      "id": 19,
+      "producto": "Fragrances para una noche de fiesta",
+      "categoria": "Fragrances masculinos o femininos",
+      "resiensa": "Me encanta la forma en que me hace sentir. Es un perfume hermoso que no puedo evitar usar.",
+      "sentimiento": "NEGATIVO"
+    },
+    {
+      "id": 20,
+      "producto": "Pintura de labios para una noche de fiesta",
+      "categoria": "Pintura de labios o marcadores de labios",
+      "resiensa": "Me gusta cómo se aplica. Es fácil de usar y te deja un color perfecto.",
+      "sentimiento": "NEUTRO"
+    }
+  ]
+}

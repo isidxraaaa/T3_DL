@@ -1,0 +1,82 @@
+ [
+
+  {
+    "id": 1,
+    "producto": "Nivea Crème",
+    "categoria": "Crema corporal",
+    "resena": "Una clásica, muy húmeda y rica. Ideal para proteger la piel durante el invierno.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 2,
+    "producto": "Palmer's Cocoa Butter",
+    "categoria": "Crema corporal",
+    "resena": "Muy nutritiva y suave. Mantiene la piel tenera durante todo el año.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 3,
+    "producto": "Neutrogena Hydro Boost",
+    "categoria": "Crema facial",
+    "resena": "Aguas frescas y crema húmeda. Mejora la apariencia de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 4,
+    "producto": "Maybelline Super Stay",
+    "categoria": "Maquillaje facial",
+    "resena": "Me encanta su duración. Muy fácil de aplicar y no se mancha.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 5,
+    "producto": "TRESemmé Shampoo",
+    "categoria": "Shampoo",
+    "resena": "Limpia el cabello y le da brillo. Mejora la textura.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 6,
+    "producto": "Dove Antiperspirante",
+    "categoria": "Antiperspirante",
+    "resena": "Bajo precio y efectivo. Muy suave en la piel.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 7,
+    "producto": "Clinique Mascara",
+    "categoria": "Maquillaje ojos",
+    "resena": "Muy volumetrica y duradera. Mejora la apariencia de mis pestañas.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 8,
+    "producto": "Elizabeth Arden Toner",
+    "categoria": "Tonificador",
+    "resena": "Me siente refrescante y se absorbe rápidamente.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 9,
+    "producto": "L'Oréal Serum",
+    "categoria": "Serum facial",
+    "resena": "Mejora la apariencia de mi piel pero toma un tiempo para absorberse.",
+    "sentimiento": "NEUTRO"
+  },
+
+  {
+    "id": 10,
+    "producto": "Olay Antienvejecimiento",
+    "categoria": "Crema facial",
+    "resena": "No me ha tenido mucha influencia en mi apariencia. Es un poco pesada.",
+    "sentimiento": "NEGATIVO"
+  }
+]

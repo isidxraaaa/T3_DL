@@ -1,0 +1,72 @@
+ [
+  {
+    "id": 1,
+    "producto": "Fonosurround X6",
+    "categoria": "audio",
+    "resena": "Sistema de sonido inalámbrico de alta calidad, facil de instalar y con excelente calidad de sonido.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 2,
+    "producto": "Smartwatch Samsung Galaxy",
+    "categoria": "electrodomésticos",
+    "resena": "Dispositivo de moda y funcionalidad. Tiene una interfaz fácil de usar y se siente cómodo en el brazo.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 3,
+    "producto": "Drone DJI Mavic",
+    "categoria": "electrónica",
+    "resena": "Excelente dron de gran calidad con una cámara de alta definición y facilidad de uso.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 4,
+    "producto": "Portátil Lenovo",
+    "categoria": "informática",
+    "resena": "Computadora portátil rápida y de diseño moderno. Pantalla brillante y teclado cómodo.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 5,
+    "producto": "Lavadora LG",
+    "categoria": "electrodomésticos",
+    "resena": "Lavadora de gran capacidad y de lavado potente. Se siente solido y es fácil de utilizar.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 6,
+    "producto": "Celular iPhone 12",
+    "categoria": "teléfonos móviles",
+    "resena": "Dispositivo de última generación con una cámara de alta calidad y diseño elegante.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 7,
+    "producto": "Auriculares Bose",
+    "categoria": "audio",
+    "resena": "Auriculares de alta calidad y confortables. Son ideal para escuchar música en cualquier lugar.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 8,
+    "producto": "Impresora HP",
+    "categoria": "impresoras",
+    "resena": "Impresora rápida y de alta calidad. Imprime documentos con gran precisión.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 9,
+    "producto": "Camara GoPro",
+    "categoria": "electrónica",
+    "resena": "Cámara resistente y de alta calidad. Ideal para grabar videos en cualquier lugar.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 10,
+    "producto": "Vacuum Dyson",
+    "categoria": "electrodomésticos",
+    "resena": "Aspiradora potente y de diseño moderno. Limpia pisos en pocos minutos.",
+    "sentimiento": "POSITIVO"
+  }
+]

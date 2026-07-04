@@ -1,0 +1,317 @@
+ [
+  {
+    "id": 1,
+    "producto": "Shampoo L'Oréal Elvive",
+    "categoria": "Cuidado cabello",
+    "resena": "Muy efectivo y suave para el pelo seco. Recomendado.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 2,
+    "producto": "Aceite de arándano rojo Burt's Bees",
+    "categoria": "Cuidado cara",
+    "resena": "Satisfactorio. Mejora la apariencia de la piel seca.",
+    "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 3,
+    "producto": "Mascarilla de barro Origins",
+    "categoria": "Cuidado cara",
+    "resena": "Excelente resultado. Mejora la textura y brillo de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 4,
+    "producto": "Crema facial Olay",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la humedad de mi piel seca.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 5,
+    "producto": "Batón de maquillaje Maybelline",
+    "categoria": "Maquillaje",
+    "resena": "Fácil de usar y seco rápido.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 6,
+    "producto": "Lipstick MAC",
+    "categoria": "Maquillaje",
+    "resena": "Color vivo y duradero.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 7,
+    "producto": "Crema de uñas OPI",
+    "categoria": "Uñas",
+    "resena": "Mejora la calidad de mis uñas.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 8,
+    "producto": "Bálsamo para labios Burt's Bees",
+    "categoria": "Cuidado cara",
+    "resena": "Húmedo y protector para los labios secos.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 9,
+    "producto": "Jabón de baño Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora el olor y la suavidad de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 10,
+    "producto": "Aceite de coco Coconut Oil",
+    "categoria": "Cuidado personal",
+    "resena": "Una excelente opción para el cuidado general.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 11,
+    "producto": "Spray antiperspirante Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora la olor y la duración.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 12,
+    "producto": "Piel de limón Dial",
+    "categoria": "Cuidado personal",
+    "resena": "Fácil de usar y efectivo.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 13,
+    "producto": "Mascara Benefit They're Real!",
+    "categoria": "Maquillaje",
+    "resena": "Mejora la longitud y volumen de mis cilios.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 14,
+    "producto": "Mascara Maybelline Lash Sensational",
+    "categoria": "Maquillaje",
+    "resena": "Mejora la apariencia de mis cilios.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 15,
+    "producto": "Lip balm ChapStick",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la humedad de mis labios secos.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 16,
+    "producto": "Crema para cicatrices Neutrogena",
+    "categoria": "Cuidado cara",
+    "resena": "Reduce la visibilidad de mis cicatrices.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 17,
+    "producto": "Aceite de arándano rojo Burt's Bees",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora la calidad de mi piel seca.",
+    "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 18,
+    "producto": "Aceite de arándano rojo The Body Shop",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora la suavidad y brillantez de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 19,
+    "producto": "Crema facial St. Ives",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la humedad de mi piel seca.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 20,
+    "producto": "Lavado facial Neutrogena",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la limpieza y el equilibrio de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 21,
+    "producto": "Mascarilla de barro L'Oréal",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la textura y brillo de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 22,
+    "producto": "Crema facial Olay",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la humedad y la suavidad de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 23,
+    "producto": "Crema para cicatrices Neutrogena",
+    "categoria": "Cuidado cara",
+    "resena": "Mejora la visibilidad de mis cicatrices.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 24,
+    "producto": "Mascara Maybelline Lash Sensational",
+    "categoria": "Maquillaje",
+    "resena": "Mejora la apariencia de mis cilios.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 25,
+    "producto": "Batón de maquillaje Maybelline",
+    "categoria": "Maquillaje",
+    "resena": "Fácil de usar y seco rápido.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 26,
+    "producto": "Crema para uñas OPI",
+    "categoria": "Uñas",
+    "resena": "Mejora la calidad de mis uñas.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 27,
+    "producto": "Bálsamo para labios Burt's Bees",
+    "categoria": "Cuidado cara",
+    "resena": "Húmedo y protector para los labios secos.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 28,
+    "producto": "Bálsamo para labios Vaseline",
+    "categoria": "Cuidado cara",
+    "resena": "Húmedo y protector para los labios secos.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 29,
+    "producto": "Jabón de baño Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora el olor y la suavidad de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 30,
+    "producto": "Aceite de coco Coconut Oil",
+    "categoria": "Cuidado personal",
+    "resena": "Una excelente opción para el cuidado general.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 31,
+    "producto": "Spray antiperspirante Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora la olor y la duración.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 32,
+    "producto": "Piel de limón Dial",
+    "categoria": "Cuidado personal",
+    "resena": "Fácil de usar y efectivo.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 33,
+    "producto": "Mascara Benefit They're Real!",
+    "categoria": "Maquillaje",
+    "resena": "Mejora la longitud y volumen de mis cilios.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 34,
+    "producto": "Lipstick MAC",
+    "categoria": "Maquillaje",
+    "resena": "Color vivo y duradero.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 35,
+    "producto": "Crema para uñas OPI",
+    "categoria": "Uñas",
+    "resena": "Mejora la calidad de mis uñas.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 36,
+    "producto": "Bálsamo para labios Burt's Bees",
+    "categoria": "Cuidado cara",
+    "resena": "Húmedo y protector para los labios secos.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 37,
+    "producto": "Jabón de baño Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora el olor y la suavidad de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 38,
+    "producto": "Aceite de coco Coconut Oil",
+    "categoria": "Cuidado personal",
+    "resena": "Una excelente opción para el cuidado general.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 39,
+    "producto": "Spray antiperspirante Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora la olor y la duración.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 40,
+    "producto": "Piel de limón Dial",
+    "categoria": "Cuidado personal",
+    "resena": "Fácil de usar y efectivo.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 41,
+    "producto": "Mascara Benefit They're Real!",
+    "categoria": "Maquillaje",
+    "resena": "Mejora la longitud y volumen de mis cilios.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 42,
+    "producto": "Lipstick MAC",
+    "categoria": "Maquillaje",
+    "resena": "Color vivo y duradero.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 43,
+    "producto": "Crema para uñas OPI",
+    "categoria": "Uñas",
+    "resena": "Mejora la calidad de mis uñas.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 44,
+    "producto": "Bálsamo para labios Burt's Bees",
+    "categoria": "Cuidado cara",
+    "resena": "Húmedo y protector para los labios secos.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 45,
+    "producto": "Jabón de baño Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Mejora el olor y la suavidad de mi piel.",
+    "sentimiento": "POSITIVO"
+  }
+]

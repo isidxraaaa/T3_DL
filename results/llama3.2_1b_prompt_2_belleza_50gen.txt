@@ -1,0 +1,319 @@
+{
+    "resenas": [
+        {
+            "id": 1,
+            "producto": "Bioterapia Facial by Dermatologist",
+            "categoria": "Facial y Cabello",
+            "reseña": "El producto es increíble, me ayudó a rejuvenecer mi piel y mi cabello. El servicio de atención personal fue excelente.",
+            "sentimiento": "NEGATIVO"
+        },
+        {
+            "id": 2,
+            "producto": "Shampur Clarifiant by L'Oréal",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 3,
+            "producto": "Cera Cremosa by Estee Lauder",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 4,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 5,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 6,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 7,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 8,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 9,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 10,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 11,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 12,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 13,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 14,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 15,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 16,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 17,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 18,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 19,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 20,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 21,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 22,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 23,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 24,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 25,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 26,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 27,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 28,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 29,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 30,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 31,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 32,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 33,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 34,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 35,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 36,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 37,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 38,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 39,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 40,
+            "producto": "Pulido con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 41,
+            "producto": "Rinse con L'Oréal Paris",
+            "categoria": "Pelos y Cabello",
+            "reseña": "Me encantó el producto, fue fácil de aplicar y me dio un buen resultado. El precio es razonable.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 42,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 43,
+            "producto": "Pólvora por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me gustó el producto, fue fácil de aplicar y me dio un buen resultado. Sin embargo, no tengo piel muy suave.",
+            "sentimiento": "NEUTRO"
+        },
+        {
+            "id": 44,
+            "producto": "Cera por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        },
+        {
+            "id": 45,
+            "producto": "Cremas para la piel por la Dosis",
+            "categoria": "Facial y Cabello",
+            "reseña": "Me sentí como una reina después de usar este producto, mi piel se sintió suave y el cabello era brillante. El servicio fue excelente.",
+            "sentimiento": "POSITIVO"
+        }
+    ]
+}

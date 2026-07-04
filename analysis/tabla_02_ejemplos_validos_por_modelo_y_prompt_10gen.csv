@@ -1,0 +1,4 @@
+﻿modelo,Electrónicos,Belleza,Hogar
+llama3.2:1b,10,10,10
+phi3:mini,1,3,5
+mistral:latest,10,10,10

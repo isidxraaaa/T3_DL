@@ -1,0 +1,11 @@
+[
+ {"id":1,"producto":"Luminaria de Gloss Plus","categoria":"Productos Capilares","resena":"La aplicación del gloss es rápida y duradera todo el día; no puedo irme sin él.","sentimiento":"POSITIVO"},
+ {"id":2,"producto":"Claras de Sana Skin - 100% Natural","categoria":"Productos para la Piel Interna","resena":"Funciona como se esperaba y no mejora el acné, es bastante decepcionante.","sentimiento":"NEUTRO"},
+ {"idsuit":3,"producto":"Brillo Radiance Makeup Primer\"\",categoria\":"Productos de Maquillaje Pre Base","resena":"Esperaba más para este pre-fijador, no noté ningún cambio en mi piel.","sentimiento":"NEUTRO"},
+ {"id":4,"producto":"Pellecito - Esfoliante facial 20% AHAs","categoria":"Productos de Hidratación Profunda","resena":"Un esfregado con este producto hace que mi piel se sienta como nueva.", "sentimiento":"POSITIVO"},
+ {"id":5,"producto":"Glow Lux-Plus - Cremas brillantes",categoria":"Productos Capilares","resena":"Pero no reserva su presupuesto, la calidad del producto es alta y dura todo el día.", "sentimiento":"POSITIVO"},
+ {"id":6,"producto":"Diana - Botellas sin agua desinfectante para manicure y pedicure","categoria":"Productos de Mantenimiento",resena":"Esto evita los malos olores en el baño, es muy conveniente.", "sentimiento":"POSITIVO"},
+ {"id":7,"producto":"Cera Fragosa - Lustración para pestañas y cejas","categoria":"Productos Capilares",resena:"Pero no ha cumplido con sus expectativas, se desprende de la cara muy rápidor.", "sentimiento":"NEGATIVO"},
+ {"id":8,"producto":"Cera Mascara - Crema transparente duradera","categoria":"Productos Capilares",resena:"Mantiene mis pestañas definidas y hermosas todo el día, muy satisfecho.", "sentimiento":"POSITIVO"},
+ {"id":9,"producto":"Claras de Sana Skin - 100% Natural","categoria":"Productos para la Piel Interna",resena:"Es un producto excelente y suave, mis espinillas ya no están tan inflamadas.", "sentimiento":"POSITIVO"},
+ {"id":10,"producto":"Brillo Radiance Makeup Primer\"","categoria":"Productos de Maquillaje Pre Base",resena:"Hay un ligero olor a química, pero el efecto dura toda la noche.", "sentimiento":"NEUTRO"}]

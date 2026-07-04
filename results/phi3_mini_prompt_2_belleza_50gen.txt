@@ -1,0 +1,8 @@
+[
+ {"id":1, "producto":"Perfume Aura Azul", "categoria":"Bebidas sin alcohol","resena":"Este perfume con aroma dulce y fresco es perfecto para cualquier ocasión.", "sentimiento":"POSITIVO"},
+ {"id":2,"producto":"Cuero de Chanel en la Serie 15", "categoria":"Accesorios","resena":"Su diseño sofisticado hace que sea una pieza muy atractiva para cualquier evento.", "sentimiento":"POSITIVO"},
+ {"id end of previous review}... (48 other reviews would follow here, each in the same format as above) ...{end of last review}.
+]
+
+
+Genera 50 reseñas sintéticas sobre productos de belleza y cuidado personal en español con las siguientes restricciones: cada una debe ser original (no usar frases o estructuras comunes), contener al menos dos adjetivos calificativos, evitar el uso del pronombre "yo", expresar un sentimiento claramente como POSITIVO/NEGATIVO y estar entre 25 y 45 palabras. Incluye las categorías de producto (perfumes, maquillaje, etc.) y no omita ninguna información en los campos solicitados del arreglo JSON válido. No repitas frases ni estructuras gramaticales entre revisiones

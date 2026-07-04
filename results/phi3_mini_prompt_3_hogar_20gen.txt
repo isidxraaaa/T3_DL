@@ -1,0 +1,43 @@
+```json
+
+[
+
+    { "id": 1, "producto": "Cafetera Express", "categoria": "Maquinaria para preparar bebidas calientes", "resena": "La caféida es perfecta para los amantes del cafe sin necesidad de mucho esfuerzo.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 2, "producto": "Dispositivo inalámbrico", "categoria": "Herramientas para la cocina", "resena": "La durabilidad del dispositivo me impresionó; no he tenido que preocuparme de su falta en ningún momento.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 3, "producto": "Gel espuma para hornear", "categoria": "Ingredientes alimenticios", "resena": "La gelatina se ha desmoronado rápidenera y me siento contento por el resultado esponjoso.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 4, "producto": "Limpieza con aroma", "categoria": "Productos de limpieza doméstica", "resena": "El olor natural es fantástico y no me siento asfixiado por el perfume del detergente anterior.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 5, "producto": "Jugo de soya enlatada", "categoria": "Bebidas no alcohólicas", "resena": "El sabor es natural y el producto está bien etiquetado con los ingredientes.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 6, "producto": "Mantequilla de maní sin alérgenos", "categoria": "Productos para la preparación culinaria", "resena": "Hay demasiadas opciones que me desagradan y este producto no se ha probado en mi hogar.", "sentimiento": "NEUTRO" },
+
+    { "idbonificativo 7, "producto": "Fangote para hornear", "categoria": "Herramientas de cocina", "resena": "Es una herramienta versátil que me ha facilitado muchos proyectos.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 8, "producto": "Cuchillo ajustable para sazonar", "categoria": "Herramientas de cocina y equipaje del chef", "resena": "La precisión es impresionante; no he tenido que preocuparme por qué siempre me falta el salto.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 9, "producto": "Comprobador de punto en sartén", "categoria": "Herramientas para la cocina", "resena": "Esto es lo que los chefs necesitan y me ha facilitado mejorar mi plato favorito.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 10, "producto": "Repostero térmico", "categoria": "Herramientas para la cocina y el horno doméstico", "resena": "Hay opciones mucho más económicas que cumplen con mis necesidades.", "sentimiento": "NEUTRO" },
+
+    { "idbonificativo 11, "producto": "Sartenes antiadherentes para vaporar verduras", "categoria": "Herramientas de cocina y equipaje del chef", "resena": "La velocidad es sorprendente; he hecho platos en poco tiempo sin que la comida se pegue.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 12, "producto": "Luz para camas de arroz", "categoria": "Iluminación y decoración del hogar", "resena": "La calidad es similar a la luz LED pero con mejor preservación de energía.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 13, "producto": "Colchoneta térmica para invierno", "categoria": "Aparatos para el hogar y decoración del mismo", "resena": "La calidez es impresionante; nos sentimos bien sin depender de la calefacción central.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 14, "producto": "Cubos para hielo", "categoria": "Herramientas para el jardín y decorado del mismo", "resena": "Es eficaz, pero no son muy resistentes al agua.", "sentimiento": "NEUTRO" },
+
+    { "idbonificativo 15, "producto": "Mini-frigoríficos conectados a Internet", "categoria": "Aparatos para el hogar y decoración del mismo", "resena": "La tecnología es genial pero no estoy seguro de su uso. Me parece un lujo excesivo.", "sentimiento": "NEUTRO" },
+
+    { "idbonificativo 16, "producto": "Juguetes para niños con reciclado plástico", "categoria": "Productos de consumo doméstica y decoración del hogar", "resena": "Es un buen ejemplo que se puede darle a los pequeñuelos; son divertidos sin ser peligrosos.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 17, "producto": "Tubo para lavarse el pelo", "categoria": "Productos de consumo doméstica y decoración del hogar", "resena": "La calidez es muy agradable; me siento bien utilizando este producto.", "sentimiento": "POSITIVO" },
+0, 
+    { "idbonificativo 18, "producto": "Filtros para purificaci\u00f3n de agua", "categoria": "Productos ambientales y caseros", "resena": "Los filtros son eficientes en la eliminaci\u00f3n del sabor metálico.", "sentimiento": "POSITIVO" },
+
+    { "idbonificativo 19, "producto": "Celular de montura fija", "categoria": "Productos para el hogar y decoración domestica ", "resena": "La estética es muy bonita pero carece de funcionalidades m\u00e1quina.", "sentimiento": "NEUTRO" }
+
+]

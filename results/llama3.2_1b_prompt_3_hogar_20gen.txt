@@ -1,0 +1,144 @@
+```json
+[
+    {
+        "id": 1,
+        "producto": "Fogonete electrico de cocina",
+        "categoria": "electrico",
+        "resena": "Me encanta el fogonete electrico de cocina que me ha ayudado a cocinar con facilidad y ahorrar energía. El modelo es muy adecuado para mi tamaño de cocina.",
+        "sentimiento": " positively "
+    },
+    {
+        "id": 2,
+        "producto": "Sopas en hielo",
+        "categoria": "sacos",
+        "resena": "Me gusta los sopas en hielo, es una excelente opción para una cena ligera y nutritiva. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 3,
+        "producto": "Cerámica para servir",
+        "categoria": "ceramica",
+        "resena": "La cerámica es muy buena para servir, no se deforma fácilmente y tiene un buen color. Me encanta el estilo y la calidad.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 4,
+        "producto": "Lavadora inalámbrica",
+        "categoria": "inalámbrico",
+        "resena": "Me encanta la lavadora inalámbrica, es rápida y eficiente. La pantalla de display es muy útil para ver qué se está haciendo durante el ciclo.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 5,
+        "producto": "Sistema de cocineta",
+        "categoria": "cocineta",
+        "resena": "Me gusta el sistema de cocineta, es muy intuitivo y fácil de usar. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 6,
+        "producto": "Papas arrugadas",
+        "categoria": "salsas",
+        "resena": "Las papas arrugadas son una excelente opción para un plato ligero y delicioso. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 7,
+        "producto": "Mantel de TV",
+        "categoria": "manteles",
+        "resena": "Me encanta el mantel de TV, es muy elegante y tiene un buen ajuste. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 8,
+        "producto": "Lámpara LED",
+        "categoria": "lápiz",
+        "resena": "Me gusta la lámpara LED, es muy segura y tiene un buen brillo. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 9,
+        "producto": "Libros de cocina",
+        "categoria": "libros",
+        "resena": "Me encanta los libros de cocina, son una excelente opción para aprender a cocinar. La calidad del contenido es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 10,
+        "producto": "Cafetera",
+        "categoria": "cafeteras",
+        "resena": "Me gusta la cafetera, es muy fácil de usar y tiene un buen sabor. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 11,
+        "producto": "Piñones frescos",
+        "categoria": "frutas",
+        "resena": "Me encanta los piñones frescos, son una excelente opción para un snack ligero y delicioso. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 12,
+        "producto": "Cocina de cerámica",
+        "categoria": "ceramica",
+        "resena": "Me gusta la cocina de cerámica, es muy elegante y tiene un buen estilo. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 13,
+        "producto": "Piscinas",
+        "categoria": "piscinas",
+        "resena": "Me encanta las piscinas, son una excelente opción para un lugar relajante y cómodo. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 14,
+        "producto": "Cocinero de acero inoxidable",
+        "categoria": "cocineros",
+        "resena": "Me gusta el cocinero de acero inoxidable, es muy fácil de limpiar y tiene un buen acabado. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 15,
+        "producto": "Lámpara solar",
+        "categoria": "lápiz",
+        "resena": "Me encanta la lámpara solar, es muy segura y tiene un buen brillo. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 16,
+        "producto": "Sopas de carne",
+        "categoria": "sacos",
+        "resena": "Me gusta las sopas de carne, son una excelente opción para un plato ligero y nutritivo. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 17,
+        "producto": "Fideos en hielo",
+        "categoria": "fideos",
+        "resena": "Me encanta los fideos en hielo, son una excelente opción para un snack ligero y delicioso. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 18,
+        "producto": "Limonada con limón fresco",
+        "categoria": "limonadas",
+        "resena": "Me gusta la limonada con limón fresco, es una excelente opción para un refresco ligero y delicioso. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 19,
+        "producto": "Pintura de pintura",
+        "categoria": "pinturas",
+        "resena": "Me encanta las pinturas, son una excelente opción para decorar un espacio. La calidad del material es excelente.",
+        "sentimiento": " positivo "
+    },
+    {
+        "id": 20,
+        "producto": "Salsas de tomate",
+        "categoria": "salsas",
+        "resena": "Me gusta las salsas de tomate, son una excelente opción para acompañar un plato ligero y delicioso. La calidad del sabor es excelente.",
+        "sentimiento": " positivo "
+    }
+]
+```

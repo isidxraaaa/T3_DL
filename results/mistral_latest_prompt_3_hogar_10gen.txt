@@ -1,0 +1,72 @@
+ [
+  {
+    "id": 1,
+    "producto": "Sarten Teflon",
+    "categoria": "Cocina",
+    "resena": "Muy facil de limpiar y resiste el desgaste.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 2,
+    "producto": "Lavadora LG",
+    "categoria": "Hogar",
+    "resena": "Toma mucho tiempo en lavar y secar.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 3,
+    "producto": "Sillon IKEA",
+    "categoria": "Hogar",
+    "resena": "Comfortable y elegante, perfecto para la casa.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 4,
+    "producto": "Maquina de café Keurig",
+    "categoria": "Cocina",
+    "resena": "Prepara café rápido y delicioso.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 5,
+    "producto": "Sarten de Acero Inoxidable",
+    "categoria": "Cocina",
+    "resena": "Lento para calentarse pero duradero.",
+    "sentimiento": "NEUTRO"
+  },
+  {
+    "id": 6,
+    "producto": "Vacuum Dyson",
+    "categoria": "Hogar",
+    "resena": "Elimina el polvo con gran eficiencia.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 7,
+    "producto": "Sarten de Barro",
+    "categoria": "Cocina",
+    "resena": "Cocina bien pero se rompe fácil.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 8,
+    "producto": "Mesa de Cocina IKEA",
+    "categoria": "Hogar",
+    "resena": "Elegante y adecuada para la cocina.",
+    "sentimiento": "POSITIVO"
+  },
+  {
+    "id": 9,
+    "producto": "Forno Convection",
+    "categoria": "Cocina",
+    "resena": "Requiere mucha atención y es lento.",
+    "sentimiento": "NEGATIVO"
+  },
+  {
+    "id": 10,
+    "producto": "Microondas Panasonic",
+    "categoria": "Cocina",
+    "resena": "Rápido y fácil de utilizar.",
+    "sentimiento": "POSITIVO"
+  }
+]

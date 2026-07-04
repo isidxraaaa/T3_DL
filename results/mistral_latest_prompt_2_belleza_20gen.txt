@@ -1,0 +1,163 @@
+ [
+
+  {
+    "id": 1,
+    "producto": "Shampoo Pantene Pro-V",
+    "categoria": "Cuidado de cabello",
+    "resena": "Este shampoo me hace el cabello brillante y fácilmente peinable.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 2,
+    "producto": "Gel de manos Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Me queda la piel suave y sin olor.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 3,
+    "producto": "Bálsamo Labello Rose Petal",
+    "categoria": "Cuidado personal",
+    "resena": "El aroma es hermoso y me protege de las sequedades.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 4,
+    "producto": "Mascarilla faccial Neutrogena",
+    "categoria": "Cuidado facial",
+    "resena": "Me hace el rostro más suave y limpio.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 5,
+    "producto": "Barrilla Dove",
+    "categoria": "Cuidado personal",
+    "resena": "Es muy suave y me hace la barrilla limpia.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 6,
+    "producto": "Sabón OxiClean",
+    "categoria": "Límpieza de ropa",
+    "resena": "Quita las manchas con facilidad.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 7,
+    "producto": "Batido facial Olay Regenerist",
+    "categoria": "Cuidado facial",
+    "resena": "Me hace el rostro más joven y fresco.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 8,
+    "producto": "Mascara Maybelline Lash Sensational",
+    "categoria": "Maquillaje",
+    "resena": "Me hace las pestanyas más visibles y naturales.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 9,
+    "producto": "Crema facial Neutrogena Hydro Boost",
+    "categoria": "Cuidado facial",
+    "resena": "Me ayuda a mantener la hidratación del rostro.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 10,
+    "producto": "Sabón Dove Para Cuerpo",
+    "categoria": "Cuidado personal",
+    "resena": "Tiene un aroma agradable y me hace el cuerpo limpio.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 11,
+    "producto": "Batido facial St. Ives Apricot Scrub",
+    "categoria": "Cuidado facial",
+    "resena": "Me ayuda a exfoliar el rostro y quita la grasa.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 12,
+    "producto": "Bálsamo Labello Coconut Sun Kissed",
+    "categoria": "Cuidado personal",
+    "resena": "El aroma es muy agradable y me protege de las sequedades.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 13,
+    "producto": "Mascara L'Oréal Paris Voluminous",
+    "categoria": "Maquillaje",
+    "resena": "Me hace las pestanyas más visibles y naturales.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 14,
+    "producto": "Bálsamo Labello Vanilla & Brown Sugar",
+    "categoria": "Cuidado personal",
+    "resena": "El aroma es muy agradable y me protege de las sequedades.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 15,
+    "producto": "Sabón Dove Para Cuerpo Sensitivo",
+    "categoria": "Cuidado personal",
+    "resena": "Es muy suave y me ayuda a lidiar con la sensibilidad de mi piel.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 16,
+    "producto": "Mascarilla faccial Olay Regenerist",
+    "categoria": "Cuidado facial",
+    "resena": "Me hace el rostro más suave y fresco.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 17,
+    "producto": "Bálsamo Labello Coconut Sun Kissed",
+    "categoria": "Cuidado personal",
+    "resena": "El aroma es muy agradable y me protege de las sequedades.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 18,
+    "producto": "Mascara L'Oréal Paris Telescopic",
+    "categoria": "Maquillaje",
+    "resena": "Me hace las pestanyas más visibles y naturales.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 19,
+    "producto": "Batido facial St. Ives Apricot Scrub",
+    "categoria": "Cuidado facial",
+    "resena": "Me ayuda a exfoliar el rostro y quita la grasa.",
+    "sentimiento": "POSITIVO"
+  },
+
+  {
+    "id": 20,
+    "producto": "Sabón Dove Para Cuerpo",
+    "categoria": "Cuidado personal",
+    "resena": "Tiene un aroma agradable y me hace el cuerpo limpio.",
+    "sentimiento": "POSITIVO"
+  }
+
+]

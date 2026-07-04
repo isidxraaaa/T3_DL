@@ -1,0 +1,319 @@
+ {
+ "reviews": [
+   {
+     "id": 1,
+     "producto": "Smartphone Samsung S21",
+     "categoria": "Móvil",
+     "resena": "Excelente calidad de imagen, diseño atractivo y alto rendimiento.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 2,
+     "producto": "Tablet iPad Pro",
+     "categoria": "Tableta",
+     "resena": "Una tableta potente y fácil de usar, pero costosa.",
+     "sentimiento": "POSITIVO/NEGATIVO"
+   },
+   {
+     "id": 3,
+     "producto": "Audífono Bluetooth JBL",
+     "categoria": "Audio",
+     "resena": "Sonido potente y comodidad confortable.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 4,
+     "producto": "Portátil Dell XPS 13",
+     "categoria": "PC Portátil",
+     "resena": "Excelente rendimiento y diseño elegante.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 5,
+     "producto": "Auriculares de gama alta Bose",
+     "categoria": "Audio",
+     "resena": "Premium sonido y comodidad excelente.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 6,
+     "producto": "Smartwatch Fitbit Versa 3",
+     "categoria": "Smartwatch",
+     "resena": "Función útil y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 7,
+     "producto": "Cámara Nikon D5600",
+     "categoria": "Fotografía",
+     "resena": "Control manual fácil y excelente calidad de imagen.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 8,
+     "producto": "Teclado mecánico Razer",
+     "categoria": "Juegos",
+     "resena": "Respuesta rápida y comodidad excelente.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 9,
+     "producto": "Headset para juego SteelSeries Arctis Pro",
+     "categoria": "Juegos",
+     "resena": "Sonido excelente y comodidad confortable.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 10,
+     "producto": "Laptop MacBook Pro M1",
+     "categoria": "PC Portátil",
+     "resena": "Rendimiento potente y diseño elegante.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 11,
+     "producto": "Auriculares Sony WH-1000XM4",
+     "categoria": "Audio",
+     "resena": "Cancela ruido efectivamente y buen sonido.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 12,
+     "producto": "Celular Samsung Galaxy A52",
+     "categoria": "Móvil",
+     "resena": "Rendimiento y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 13,
+     "producto": "Drone DJI Mini 2",
+     "categoria": "Cámaras",
+     "resena": "Fácil de usar y calidad de imagen buena.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 14,
+     "producto": "Impresora Epson ET-2750",
+     "categoria": "Impresión",
+     "resena": "Alta calidad de impresión y fácil de usar.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 15,
+     "producto": "Router TP-Link Archer AX6000",
+     "categoria": "Red inalámbrica",
+     "resena": "Velocidad de conexión rápida y cobertura amplia.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 16,
+     "producto": "Gafas inteligentes Google Glass",
+     "categoria": "Tecnología",
+     "resena": "Innovación y comodidad.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 17,
+     "producto": "Audífono Bluetooth AirPods Pro",
+     "categoria": "Audio",
+     "resena": "Sonido excelente y cancelación de ruido.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 18,
+     "producto": "Smartwatch Apple Watch SE",
+     "categoria": "Smartwatch",
+     "resena": "Función útil y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 19,
+     "producto": "Celular Motorola Moto G Power",
+     "categoria": "Móvil",
+     "resena": "Batería duradera y rendimiento bueno.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 20,
+     "producto": "Cámara de acción GoPro Hero 9",
+     "categoria": "Cámaras",
+     "resena": "Calidad de video excelente y fácil de usar.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 21,
+     "producto": "Impresora HP OfficeJet Pro 9025",
+     "categoria": "Impresión",
+     "resena": "Alta calidad de impresión y rápida.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 22,
+     "producto": "Router Netgear Orbi RBK50",
+     "categoria": "Red inalámbrica",
+     "resena": "Velocidad de conexión rápida y cobertura amplia.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 23,
+     "producto": "Smartwatch Garmin Venu",
+     "categoria": "Smartwatch",
+     "resena": "Monitor de salud y deporte útil.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 24,
+     "producto": "Celular Samsung Galaxy Z Fold2",
+     "categoria": "Móvil",
+     "resena": "Innovación y alta calidad.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 25,
+     "producto": "Laptop Lenovo IdeaPad Flex 5G",
+     "categoria": "PC Portátil",
+     "resena": "Rendimiento potente y funcional.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 26,
+     "producto": "Auriculares Jabra Elite Active 75t",
+     "categoria": "Audio",
+     "resena": "Sonido excelente y cancelación de ruido efectiva.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 27,
+     "producto": "Headset para juego Logitech G Pro X",
+     "categoria": "Juegos",
+     "resena": "Sonido excelente y comodidad confortable.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 28,
+     "producto": "Smartphone Xiaomi Mi11",
+     "categoria": "Móvil",
+     "resena": "Rendimiento excelente y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 29,
+     "producto": "Cámara GoPro Max",
+     "categoria": "Cámaras",
+     "resena": "Calidad de video excelente y funcional.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 30,
+     "producto": "Impresora HP OfficeJet Pro 8720",
+     "categoria": "Impresión",
+     "resena": "Alta calidad de impresión y rápida.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 31,
+     "producto": "Router Asus RT-AX86U",
+     "categoria": "Red inalámbrica",
+     "resena": "Velocidad de conexión rápida y cobertura amplia.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 32,
+     "producto": "Smartwatch Samsung Galaxy Watch Active 2",
+     "categoria": "Smartwatch",
+     "resena": "Monitor de salud y deporte útil.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 33,
+     "producto": "Celular Samsung Galaxy S20 FE",
+     "categoria": "Móvil",
+     "resena": "Rendimiento y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 34,
+     "producto": "Cámara de seguridad Blink Mini",
+     "categoria": "Seguridad",
+     "resena": "Easy to use and high quality video.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 35,
+     "producto": "Impresora Epson WorkForce WF-3740",
+     "categoria": "Impresión",
+     "resena": "Alta calidad de impresión y rápida.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 36,
+     "producto": "Router Netgear Nighthawk AX8",
+     "categoria": "Red inalámbrica",
+     "resena": "Velocidad de conexión rápida y cobertura amplia.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 37,
+     "producto": "Smartwatch Fossil Gen 5",
+     "categoria": "Smartwatch",
+     "resena": "Función útil y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 38,
+     "producto": "Celular OnePlus 9 Pro",
+     "categoria": "Móvil",
+     "resena": "Alta calidad y rendimiento.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 39,
+     "producto": "Auriculares Bose QuietComfort Earbuds",
+     "categoria": "Audio",
+     "resena": "Excelente sonido y comodidad.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 40,
+     "producto": "Headset para juego Razer BlackShark V2",
+     "categoria": "Juegos",
+     "resena": "Sonido excelente y comodidad confortable.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 41,
+     "producto": "Smartphone Xiaomi Redmi Note 9",
+     "categoria": "Móvil",
+     "resena": "Rendimiento bueno y diseño atractivo.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 42,
+     "producto": "Cámara Instax Mini 11",
+     "categoria": "Fotografía",
+     "resena": "Funcionalidad fácil y calidad de imagen buena.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 43,
+     "producto": "Impresora Canon Pixma TR8520",
+     "categoria": "Impresión",
+     "resena": "Alta calidad de impresión y rápida.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 44,
+     "producto": "Router TP-Link Deco X60",
+     "categoria": "Red inalámbrica",
+     "resena": "Velocidad de conexión rápida y cobertura amplia.",
+     "sentimiento": "POSITIVO"
+   },
+   {
+     "id": 45,
+     "producto": "Smartwatch Garmin Vivoactive 4",
+     "categoria": "Smartwatch",
+     "resena": "Monitor de salud y deporte útil.",
+     "sentimiento": "POSITIVO"
+   }
+ ]
+}

@@ -1,9 +1,0 @@
-```json
-
-[
-
-    { "id": 1, "producto": "Televisor Samsung QLED", "categoria": "electrónico de TV", "resena": "Ofrece una imagen nítida y amplia con pantallas FALCO. Ideal para ambientes modernos.", "sentimiento": "POSITIVO" },
-
-    { "id extranjero es un requisito desafortunado, ya que limitaría el alcance del mercado objetivo."},
-
-    

@@ -1,0 +1,142 @@
+ {
+ "0": {
+   "id": "1",
+   "producto": "Telefono Samsung Galaxy S21",
+   "categoria": "Teléfonos móviles",
+   "resena": "Excelente calidad, rápido procesador y cámara increíble.",
+   "sentimiento": "POSITIVO"
+ },
+ "1": {
+   "id": "2",
+   "producto": "Portátil Lenovo IdeaPad Flex 5",
+   "categoria": "Equipos de computo portátiles",
+   "resena": "Pantalla tactil y procesador potente, perfecto para trabajar en el exterior.",
+   "sentimiento": "POSITIVO"
+ },
+ "2": {
+   "id": "3",
+   "producto": "Auriculares JBL Tune 500BT",
+   "categoria": "Auriculares inalámbricos",
+   "resena": "Conexión sin problemas, sonido excelente y durabilidad.",
+   "sentimiento": "POSITIVO"
+ },
+ "3": {
+   "id": "4",
+   "producto": "Lavadora LG FHM796DMS",
+   "categoria": "Lavadoras y secadoras",
+   "resena": "Rapido lavado y funciona muy bien.",
+   "sentimiento": "POSITIVO"
+ },
+ "4": {
+   "id": "5",
+   "producto": "Forno Samsung RF28H7130SS",
+   "categoria": "Electrodomésticos de cocina",
+   "resena": "Cocina rápido y con buen resultado.",
+   "sentimiento": "POSITIVO"
+ },
+ "5": {
+   "id": "6",
+   "producto": "Microondas Panasonic NN-CD58WSSQ",
+   "categoria": "Electrodomésticos de cocina",
+   "resena": "Cocina rápido y con calidad.",
+   "sentimiento": "POSITIVO"
+ },
+ "6": {
+   "id": "7",
+   "producto": "Aspiradora cordless Dyson V10",
+   "categoria": "Aspiradoras",
+   "resena": "Poderosa y fácil de manejar.",
+   "sentimiento": "POSITIVO"
+ },
+ "7": {
+   "id": "8",
+   "producto": "Cámara Nikon D3500",
+   "categoria": "Fotocámaras reflex",
+   "resena": "Excelente calidad de imagen y fácil de manejar.",
+   "sentimiento": "POSITIVO"
+ },
+ "8": {
+   "id": "9",
+   "producto": "Maquina de escribir Samsung SLE50W7AWEP",
+   "categoria": "Impresoras",
+   "resena": "Rápido y impresiones de alta calidad.",
+   "sentimiento": "POSITIVO"
+ },
+ "9": {
+   "id": "10",
+   "producto": "Auriculares JBL Reflect Mini 2",
+   "categoria": "Auriculares inalámbricos",
+   "resena": "Conexión rápida y sonido excelente.",
+   "sentimiento": "POSITIVO"
+ },
+ "10": {
+   "id": "11",
+   "producto": "Fotoeléctrica Philips Hue Play HDMI Sync Box",
+   "categoria": "Fotoeléctricas",
+   "resena": "Sincronización perfecta con la pantalla del TV.",
+   "sentimiento": "POSITIVO"
+ },
+ "11": {
+   "id": "12",
+   "producto": "Tablet Samsung Galaxy Tab A7",
+   "categoria": "Tablets",
+   "resena": "Pantalla grande y rápido procesador.",
+   "sentimiento": "POSITIVO"
+ },
+ "12": {
+   "id": "13",
+   "producto": "Proyector LG Minibeam PH550U",
+   "categoria": "Proyectores portátiles",
+   "resena": "Pantalla grande y buenos sonidos.",
+   "sentimiento": "POSITIVO"
+ },
+ "13": {
+   "id": "14",
+   "producto": "Fotoeléctrica Philips Hue White & Color Ambiance A61",
+   "categoria": "Fotoeléctricas",
+   "resena": "Cambio de color y intensidad perfecto.",
+   "sentimiento": "POSITIVO"
+ },
+ "14": {
+   "id": "15",
+   "producto": "Auriculares Bose QuietComfort Earbuds II",
+   "categoria": "Auriculares inalámbricos",
+   "resena": "Conexión rápida y sonido de alta calidad.",
+   "sentimiento": "POSITIVO"
+ },
+ "15": {
+   "id": "16",
+   "producto": "Fotocámara Sony RX100 VII",
+   "categoria": "Fotocámaras reflex",
+   "resena": "Calidad de imagen increíble y fácil de manejar.",
+   "sentimiento": "POSITIVO"
+ },
+ "16": {
+   "id": "17",
+   "producto": "Impresora Canon Pixma TR4520",
+   "categoria": "Impresoras",
+   "resena": "Rápida impresión y calidad de impresión.",
+   "sentimiento": "POSITIVO"
+ },
+ "17": {
+   "id": "18",
+   "producto": "Telefono iPhone 12 Pro Max",
+   "categoria": "Teléfonos móviles",
+   "resena": "Calidad de imagen increíble y rápido procesador.",
+   "sentimiento": "POSITIVO"
+ },
+ "18": {
+   "id": "19",
+   "producto": "Lavadora LG WM3975HW",
+   "categoria": "Lavadoras y secadoras",
+   "resena": "Funciona muy bien y lavado rápido.",
+   "sentimiento": "POSITIVO"
+ },
+ "19": {
+   "id": "20",
+   "producto": "Fotoeléctrica Philips Hue White Starter Kit",
+   "categoria": "Fotoeléctricas",
+   "resena": "Cambio de color perfecto y funciona bien.",
+   "sentimiento": "POSITIVO"
+ }
+}
