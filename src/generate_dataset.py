@@ -10,11 +10,11 @@ modelos = [
 ]
 
 prompts = {
-    "prompt_1_electronicos": "Genera 10 reseñas sintéticas de productos electrónicos en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, resena, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.",
+    "prompt_1_electronicos": "Genera 10 reseñas sintéticas de productos electrónicos en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, reseña, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.",
     
-    "prompt_2_belleza": "Genera 10 reseñas sintéticas de productos de belleza y cuidado personal en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, resena, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.",
+    "prompt_2_belleza": "Genera 10 reseñas sintéticas de productos de belleza y cuidado personal en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, reseña, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional.",
     
-    "prompt_3_hogar": "Genera 10 reseñas sintéticas de productos para el hogar y cocina en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, resena, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional."
+    "prompt_3_hogar": "Genera 10 reseñas sintéticas de productos para el hogar y cocina en español. La salida debe ser exclusivamente un arreglo JSON válido. Cada elemento debe tener los campos: id, producto, categoria, reseña, sentimiento. Usa los sentimientos POSITIVO, NEUTRO o NEGATIVO. Cada reseña debe tener entre 25 y 45 palabras. No uses markdown, explicaciones ni texto adicional."
 }
 
 os.makedirs("results", exist_ok=True)
