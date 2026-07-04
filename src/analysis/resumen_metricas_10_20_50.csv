@@ -1,8 +1,0 @@
-﻿n_solicitado,modelo,ejemplos_validos,largo_promedio,largo_minimo,largo_maximo,ejemplos_esperados,ejemplos_faltantes,porcentaje_valido,errores_generacion
-10,llama3.2:1b,20,21.45,13,30,30,10,66.66666666666666,1
-10,mistral:latest,30,9.2,5,16,30,0,100.0,0
-10,phi3:mini,9,12.6,10,18,30,21,30.0,2
-20,llama3.2:1b,40,23.6,16,29,60,20,66.66666666666666,1
-20,mistral:latest,60,7.5,4,13,60,0,100.0,0
-20,phi3:mini,19,10.3,5,15,60,41,31.666666666666664,2
-50,mistral:latest,145,9.062068965517241,4,15,150,5,96.66666666666667,0
